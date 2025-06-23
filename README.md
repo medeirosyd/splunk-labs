@@ -1,5 +1,5 @@
-# Splunk Labs
-A reference vault of SPL commands and detection patterns aligned with the Splunk Power User certification.
+# Splunk-Labs
+A reference vault of SPL commands and detection patterns aligned with the Splunk certifications.
 
 ## Structure
 splunk-labs/
