@@ -1,7 +1,6 @@
 # Splunk-Labs
-A reference vault of SPL commands and detection patterns aligned with the Splunk certifications.
+A reference vault of SPL commands and detection patterns aligned with Splunk certifications.
 
-## Structure
 splunk-labs/
 ├── core/         # Command usage and behavior
 ├── patterns/     # Real-world detection examples
