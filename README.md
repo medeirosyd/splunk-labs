@@ -13,7 +13,7 @@ A reference vault of SPL commands and detection patterns aligned with Splunk cer
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics Covered (kickstart)
 
 - `stats`, `eventstats`, `transaction`
 - `eval`, `if`, `case`, `coalesce`
@@ -26,5 +26,5 @@ A reference vault of SPL commands and detection patterns aligned with Splunk cer
 
 ## 🎯 Scope
 
-This repository provides tested SPL examples focused on performance, clarity, and detection logic.  
-Organized to support Splunk Power User certification and real-world operational needs.
+This repository provides SPL examples focused on performance, clarity, and detection logic.  
+Organized to support Splunk paths to certification and operational needs.
