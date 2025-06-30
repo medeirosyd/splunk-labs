@@ -1,0 +1,103 @@
+# Intro to Splunk — Class Notes
+
+These notes summarize key topics and concepts from the Intro to Splunk class.
+
+---
+
+## Splunk Core Concepts
+
+- **Ingestion**: Splunk collects data from diverse sources (logs, metrics, APIs).
+- **Indexing**: Data is stored in indexes for fast searching and retrieval.
+- **Timestamp**: Each event has a timestamp assigned at index time.
+- **Sourcetype / Source / Host**: Metadata to categorize and identify data sources.
+
+---
+
+## Search and SPL (Search Processing Language)
+
+- **Search terms**: Filters applied before the first `|` (pipe). Example:  
+  `index=main error OR failure`
+- **Commands**: Operations after the pipe. Example: `| stats count by host`
+- **Functions**: Calculations inside commands, e.g. `avg()`, `count()`
+- **Arguments**: Parameters provided to commands and functions.
+- **Clauses**: Modifiers such as `by`, `where`
+- **Pipe (`|`)**: Chains commands together.
+
+### Search Best Practices
+✅ Filter before the first pipe for speed: `index=`, `sourcetype=`, `host=`  
+✅ Inclusion is faster than exclusion.  
+✅ Prefer `IN` or `OR` over wide wildcards.  
+✅ Example:  
+`index=main status IN (200,201)`
+
+---
+
+## Boolean Logic in Searches
+
+- **Operators**: `AND`, `OR`, `NOT`
+- **Evaluation order**: `NOT` → `AND` → `OR`  
+- Use parentheses `()` for clarity in complex logic.  
+  Example: `Failed AND (NOT password)`
+
+---
+
+## Search Modes
+
+- **Fast**: Faster, minimal field discovery.
+- **Smart**: Auto-selects mode based on query.
+- **Verbose**: Full field discovery, slower.
+
+---
+
+## Knowledge Objects
+
+Objects that help interpret, enrich, and normalize data:
+- **Field extractions**, **calculated fields**
+- **Event types**, **transactions**
+- **Lookups**, **workflow actions**
+- **Tags**, **field aliases**
+- **Data models**: Hierarchical structures for data analysis (e.g. CIM)
+
+---
+
+## Dashboards & Visualizations
+
+- **Classic dashboards**: XML-based, basic visuals.
+- **Dashboard Studio**: Grid/absolute layout, advanced visuals.
+- **Visualization types**: Bar, line, pie charts, single value, more.
+- **Elements**: X-axis, Y-axis, chart overlays, format options.
+
+---
+
+## Reports
+
+- Save searches as reports to reuse or schedule.
+- **Scheduling**: Cron or interval-based.
+- **Permissions**: Owner, app-level, or global (everyone, specific roles).
+- Reports always query fresh data.
+
+---
+
+## Roles & Permissions
+
+- **Admin**: Full rights.
+- **Power user**: Can create and share objects.
+- **User**: Can search and use dashboards.
+
+Roles define what users can see, do, or interact with in Splunk.
+
+---
+
+## SOAR (Security Orchestration, Automation, and Response)
+
+- Splunk SOAR integrates automation into security workflows.
+- Allows response playbooks, automation of repetitive tasks, incident management.
+
+---
+
+## Helpful Resources
+
+- [docs.splunk.com](https://docs.splunk.com)
+- [lantern.splunk.com](https://lantern.splunk.com)
+- [education.splunk.com](https://education.splunk.com)
+- [splk.it/how-to](https://splk.it/how-to)
