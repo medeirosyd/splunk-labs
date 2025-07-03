@@ -1,0 +1,93 @@
+regex
+Type: Search command
+Category: Search Processing Language (SPL) — Event filtering
+
+Definition:
+The regex command in Splunk is used to filter events by applying a regular expression (regex) to raw data or to a specific field. Only events where the specified field (or raw event text) matches the regex pattern are included in the search results. Events that do not match are excluded.
+
+regex helps you:
+
+Narrow search results by including only matching events.
+
+Apply complex conditions that are difficult to express with basic search terms.
+
+Syntax:
+
+... | regex [field=<field_name>] "<regular_expression>"
+field=<field_name> (optional): Specifies the field to apply the regex to. If not provided, the regex applies to the _raw field (the entire event text).
+
+<regular_expression>: The regex pattern enclosed in double quotes.
+
+Key concepts:
+
+Filtering: Unlike rex, which extracts fields, regex simply filters events. It does not create new fields.
+
+Regex pattern: A string that defines the pattern you want to match within events or fields.
+
+_raw field: The default field regex applies to when no field is specified — the full raw text of the event.
+
+How it works:
+
+Splunk processes events through your search.
+
+The regex command checks each event (or specified field) against the regex pattern.
+
+Only events that match the pattern are kept in the results.
+
+Events that don’t match are discarded.
+
+Examples:
+
+Filter events that contain an HTTP 404 error code
+
+index=web sourcetype=access_combined
+| regex "HTTP/\d\.\d\" 404"
+Keeps only events where the raw data contains HTTP/1.1" 404 or similar.
+
+Filter events where the status field equals 500
+
+index=web
+| regex field=status "^500$"
+Keeps only events where the status field exactly matches 500.
+
+Filter events with IP addresses in a certain range
+
+index=firewall
+| regex "192\.168\.1\.\d{1,3}"
+Keeps only events where the raw data includes an IP address starting with 192.168.1.
+
+Exclude events where the user field starts with "test"
+
+index=main
+| regex field=user "^(?!test)"
+Keeps only events where the user field does not start with test. This uses a negative lookahead.
+
+Tips for effective use:
+
+Pre-filter with search terms (e.g., index=, sourcetype=, status=...) to limit the data regex has to process.
+
+Use specific regex patterns to improve search performance — avoid broad patterns like .* unless necessary.
+
+Test your regex separately in a tool like regex101.com before using it in Splunk.
+
+Comparison with similar commands:
+
+Command	Purpose	Creates fields?
+regex	Filters events using regex	No
+rex	Extracts fields using regex	Yes
+search	Filters using keywords and operators	No
+where	Filters using eval expressions	No
+
+Limitations:
+
+regex can slow down searches if applied to large data sets without pre-filtering.
+
+It does not modify or create fields, only filters.
+
+Example combined usage:
+
+index=web sourcetype=access_combined
+| regex "404"
+| stats count by uri_path
+This filters events containing 404 and then counts how often each URI path appears.
+
