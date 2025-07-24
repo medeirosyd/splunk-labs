@@ -1,0 +1,751 @@
+timestamp,rider,team,lap,sector,lap_time,sector_time,speed_kph,lean_angle,gear,throttle,brake,tire_temp,event
+2025-07-23T14:02:06Z,F. Bagnaia,Ducati Lenovo,1,1,29.334,29.334,337,58,3,77,8,78,sector_completed
+2025-07-23T14:02:39Z,F. Bagnaia,Ducati Lenovo,1,2,60.364,31.03,324,52,6,83,2,75,sector_completed
+2025-07-23T14:03:04Z,F. Bagnaia,Ducati Lenovo,1,3,89.645,29.281,304,50,6,76,45,95,sector_completed
+2025-07-23T14:03:42Z,F. Bagnaia,Ducati Lenovo,2,1,30.635,30.635,304,64,6,78,0,80,sector_completed
+2025-07-23T14:04:14Z,F. Bagnaia,Ducati Lenovo,2,2,61.729,31.094,311,58,3,76,48,85,sector_completed
+2025-07-23T14:04:39Z,F. Bagnaia,Ducati Lenovo,2,3,91.036,29.307,314,53,4,97,22,94,sector_completed
+2025-07-23T14:05:15Z,F. Bagnaia,Ducati Lenovo,3,1,31.421,31.421,336,64,6,73,24,77,sector_completed
+2025-07-23T14:05:45Z,F. Bagnaia,Ducati Lenovo,3,2,62.077,30.656,343,61,6,76,45,77,sector_completed
+2025-07-23T14:06:11Z,F. Bagnaia,Ducati Lenovo,3,3,91.214,29.137,304,59,2,97,14,78,sector_completed
+2025-07-23T14:06:49Z,F. Bagnaia,Ducati Lenovo,4,1,29.834,29.834,330,61,3,81,22,81,sector_completed
+2025-07-23T14:07:22Z,F. Bagnaia,Ducati Lenovo,4,2,60.845,31.011,334,52,6,90,10,92,sector_completed
+2025-07-23T14:07:53Z,F. Bagnaia,Ducati Lenovo,4,3,92.032,31.187,300,64,5,78,40,92,sector_completed
+2025-07-23T14:08:24Z,F. Bagnaia,Ducati Lenovo,5,1,31.054,31.054,343,51,3,96,2,85,sector_completed
+2025-07-23T14:08:53Z,F. Bagnaia,Ducati Lenovo,5,2,61.257,30.203,294,56,6,98,45,85,sector_completed
+2025-07-23T14:09:21Z,F. Bagnaia,Ducati Lenovo,5,3,90.895,29.638,321,62,5,74,16,79,sector_completed
+2025-07-23T14:09:59Z,F. Bagnaia,Ducati Lenovo,6,1,31.235,31.235,324,58,6,83,37,87,sector_completed
+2025-07-23T14:10:28Z,F. Bagnaia,Ducati Lenovo,6,2,61.321,30.086,298,65,2,94,3,78,sector_completed
+2025-07-23T14:10:56Z,F. Bagnaia,Ducati Lenovo,6,3,90.78,29.459,300,63,6,72,24,87,sector_completed
+2025-07-23T14:11:37Z,F. Bagnaia,Ducati Lenovo,7,1,31.988,31.988,323,58,6,97,0,78,sector_completed
+2025-07-23T14:12:08Z,F. Bagnaia,Ducati Lenovo,7,2,63.033,31.045,324,58,4,73,18,88,sector_completed
+2025-07-23T14:12:34Z,F. Bagnaia,Ducati Lenovo,7,3,92.507,29.474,290,58,6,94,11,91,sector_completed
+2025-07-23T14:13:08Z,F. Bagnaia,Ducati Lenovo,8,1,31.612,31.612,309,56,3,81,48,80,sector_completed
+2025-07-23T14:13:38Z,F. Bagnaia,Ducati Lenovo,8,2,62.23,30.618,339,50,6,80,31,75,sector_completed
+2025-07-23T14:14:05Z,F. Bagnaia,Ducati Lenovo,8,3,91.566,29.336,313,59,3,71,15,93,sector_completed
+2025-07-23T14:14:41Z,F. Bagnaia,Ducati Lenovo,9,1,29.257,29.257,321,52,6,94,8,79,sector_completed
+2025-07-23T14:15:13Z,F. Bagnaia,Ducati Lenovo,9,2,60.236,30.979,325,55,4,86,38,88,sector_completed
+2025-07-23T14:15:47Z,F. Bagnaia,Ducati Lenovo,9,3,92.129,31.893,324,56,4,82,42,95,sector_completed
+2025-07-23T14:16:19Z,F. Bagnaia,Ducati Lenovo,10,1,30.314,30.314,323,64,2,77,14,77,sector_completed
+2025-07-23T14:16:49Z,F. Bagnaia,Ducati Lenovo,10,2,60.328,30.014,327,57,6,77,0,77,sector_completed
+2025-07-23T14:17:22Z,F. Bagnaia,Ducati Lenovo,10,3,91.452,31.124,293,57,2,98,2,85,sector_completed
+2025-07-23T14:17:52Z,F. Bagnaia,Ducati Lenovo,11,1,30.542,30.542,307,65,3,87,8,93,sector_completed
+2025-07-23T14:18:23Z,F. Bagnaia,Ducati Lenovo,11,2,61.271,30.729,305,65,5,76,6,78,sector_completed
+2025-07-23T14:18:54Z,F. Bagnaia,Ducati Lenovo,11,3,92.248,30.977,312,63,5,84,46,76,sector_completed
+2025-07-23T14:19:32Z,F. Bagnaia,Ducati Lenovo,12,1,30.96,30.96,331,53,2,82,46,85,sector_completed
+2025-07-23T14:20:04Z,F. Bagnaia,Ducati Lenovo,12,2,62.362,31.402,296,57,3,76,34,89,sector_completed
+2025-07-23T14:20:30Z,F. Bagnaia,Ducati Lenovo,12,3,91.783,29.421,301,58,5,77,4,89,sector_completed
+2025-07-23T14:21:09Z,F. Bagnaia,Ducati Lenovo,13,1,31.584,31.584,325,53,2,90,34,75,sector_completed
+2025-07-23T14:21:41Z,F. Bagnaia,Ducati Lenovo,13,2,63.491,31.907,338,57,3,83,31,90,sector_completed
+2025-07-23T14:22:06Z,F. Bagnaia,Ducati Lenovo,13,3,93.132,29.641,315,51,3,82,0,87,sector_completed
+2025-07-23T14:22:40Z,F. Bagnaia,Ducati Lenovo,14,1,31.78,31.78,340,64,4,83,44,92,sector_completed
+2025-07-23T14:23:10Z,F. Bagnaia,Ducati Lenovo,14,2,62.766,30.986,321,54,3,79,13,76,sector_completed
+2025-07-23T14:23:41Z,F. Bagnaia,Ducati Lenovo,14,3,93.504,30.738,324,51,4,71,3,93,sector_completed
+2025-07-23T14:24:15Z,F. Bagnaia,Ducati Lenovo,15,1,30.509,30.509,344,55,2,100,32,77,sector_completed
+2025-07-23T14:24:48Z,F. Bagnaia,Ducati Lenovo,15,2,62.063,31.554,294,52,3,82,7,93,sector_completed
+2025-07-23T14:25:14Z,F. Bagnaia,Ducati Lenovo,15,3,91.802,29.739,328,51,6,72,26,93,sector_completed
+2025-07-23T14:25:51Z,F. Bagnaia,Ducati Lenovo,16,1,30.568,30.568,306,56,4,77,16,87,sector_completed
+2025-07-23T14:26:19Z,F. Bagnaia,Ducati Lenovo,16,2,59.961,29.393,331,59,5,80,48,77,sector_completed
+2025-07-23T14:26:48Z,F. Bagnaia,Ducati Lenovo,16,3,88.989,29.028,329,53,2,87,13,91,sector_completed
+2025-07-23T14:27:23Z,F. Bagnaia,Ducati Lenovo,17,1,29.397,29.397,312,52,3,81,18,80,sector_completed
+2025-07-23T14:27:54Z,F. Bagnaia,Ducati Lenovo,17,2,59.712,30.315,324,59,6,95,41,91,sector_completed
+2025-07-23T14:28:21Z,F. Bagnaia,Ducati Lenovo,17,3,88.735,29.023,342,59,2,100,8,83,sector_completed
+2025-07-23T14:28:58Z,F. Bagnaia,Ducati Lenovo,18,1,31.669,31.669,337,54,4,79,38,81,sector_completed
+2025-07-23T14:29:29Z,F. Bagnaia,Ducati Lenovo,18,2,62.822,31.153,303,58,6,85,16,76,sector_completed
+2025-07-23T14:29:54Z,F. Bagnaia,Ducati Lenovo,18,3,92.099,29.277,317,58,2,70,21,79,sector_completed
+2025-07-23T14:30:38Z,F. Bagnaia,Ducati Lenovo,19,1,31.939,31.939,300,64,6,92,27,92,sector_completed
+2025-07-23T14:31:05Z,F. Bagnaia,Ducati Lenovo,19,2,60.968,29.029,294,54,6,71,23,93,sector_completed
+2025-07-23T14:31:38Z,F. Bagnaia,Ducati Lenovo,19,3,91.626,30.658,317,54,2,79,23,76,sector_completed
+2025-07-23T14:32:08Z,F. Bagnaia,Ducati Lenovo,20,1,29.63,29.63,305,53,4,94,35,88,sector_completed
+2025-07-23T14:32:42Z,F. Bagnaia,Ducati Lenovo,20,2,61.552,31.922,337,54,3,97,10,80,sector_completed
+2025-07-23T14:33:13Z,F. Bagnaia,Ducati Lenovo,20,3,93.196,31.644,291,55,4,95,26,82,sector_completed
+2025-07-23T14:33:43Z,F. Bagnaia,Ducati Lenovo,21,1,29.478,29.478,334,53,5,97,2,90,sector_completed
+2025-07-23T14:34:13Z,F. Bagnaia,Ducati Lenovo,21,2,59.145,29.667,342,64,4,79,50,82,sector_completed
+2025-07-23T14:34:43Z,F. Bagnaia,Ducati Lenovo,21,3,88.814,29.669,332,56,5,80,17,77,sector_completed
+2025-07-23T14:35:22Z,F. Bagnaia,Ducati Lenovo,22,1,29.837,29.837,331,62,6,80,1,78,sector_completed
+2025-07-23T14:35:56Z,F. Bagnaia,Ducati Lenovo,22,2,61.468,31.631,306,55,6,100,16,76,sector_completed
+2025-07-23T14:36:20Z,F. Bagnaia,Ducati Lenovo,22,3,90.793,29.325,317,61,4,83,38,91,sector_completed
+2025-07-23T14:36:52Z,F. Bagnaia,Ducati Lenovo,23,1,30.156,30.156,326,56,4,71,45,88,sector_completed
+2025-07-23T14:37:20Z,F. Bagnaia,Ducati Lenovo,23,2,59.161,29.005,341,56,4,83,4,85,sector_completed
+2025-07-23T14:37:54Z,F. Bagnaia,Ducati Lenovo,23,3,90.03,30.869,332,53,4,86,19,88,sector_completed
+2025-07-23T14:38:29Z,F. Bagnaia,Ducati Lenovo,24,1,30.207,30.207,308,54,3,83,42,87,sector_completed
+2025-07-23T14:39:01Z,F. Bagnaia,Ducati Lenovo,24,2,61.239,31.032,301,59,5,87,0,84,sector_completed
+2025-07-23T14:39:28Z,F. Bagnaia,Ducati Lenovo,24,3,91.1,29.861,317,60,5,84,28,81,sector_completed
+2025-07-23T14:40:06Z,F. Bagnaia,Ducati Lenovo,25,1,30.42,30.42,340,55,2,79,32,95,sector_completed
+2025-07-23T14:40:37Z,F. Bagnaia,Ducati Lenovo,25,2,61.278,30.858,295,57,4,77,12,79,sector_completed
+2025-07-23T14:41:03Z,F. Bagnaia,Ducati Lenovo,25,3,90.351,29.073,305,65,6,97,49,77,sector_completed
+2025-07-23T14:02:05Z,M. Márquez,Gresini Ducati,1,1,30.243,30.243,330,56,5,85,25,82,sector_completed
+2025-07-23T14:02:33Z,M. Márquez,Gresini Ducati,1,2,59.686,29.443,334,50,2,94,27,82,sector_completed
+2025-07-23T14:03:03Z,M. Márquez,Gresini Ducati,1,3,89.214,29.528,334,64,2,87,15,78,sector_completed
+2025-07-23T14:03:39Z,M. Márquez,Gresini Ducati,2,1,29.4,29.4,319,60,5,89,46,91,sector_completed
+2025-07-23T14:04:10Z,M. Márquez,Gresini Ducati,2,2,59.68,30.28,325,64,3,93,30,89,sector_completed
+2025-07-23T14:04:39Z,M. Márquez,Gresini Ducati,2,3,89.458,29.778,305,58,6,85,40,82,sector_completed
+2025-07-23T14:05:14Z,M. Márquez,Gresini Ducati,3,1,30.32,30.32,335,59,3,78,21,85,sector_completed
+2025-07-23T14:05:47Z,M. Márquez,Gresini Ducati,3,2,61.999,31.679,295,54,3,77,24,79,sector_completed
+2025-07-23T14:06:17Z,M. Márquez,Gresini Ducati,3,3,93.118,31.119,294,63,5,80,34,89,sector_completed
+2025-07-23T14:06:49Z,M. Márquez,Gresini Ducati,4,1,29.187,29.187,343,63,5,98,49,93,sector_completed
+2025-07-23T14:07:23Z,M. Márquez,Gresini Ducati,4,2,61.025,31.838,291,62,5,70,22,84,sector_completed
+2025-07-23T14:07:53Z,M. Márquez,Gresini Ducati,4,3,92.285,31.26,344,63,6,93,47,92,sector_completed
+2025-07-23T14:08:28Z,M. Márquez,Gresini Ducati,5,1,30.81,30.81,304,65,3,78,27,90,sector_completed
+2025-07-23T14:08:56Z,M. Márquez,Gresini Ducati,5,2,59.897,29.087,311,62,3,96,29,79,sector_completed
+2025-07-23T14:09:33Z,M. Márquez,Gresini Ducati,5,3,91.839,31.942,324,50,5,88,36,75,sector_completed
+2025-07-23T14:09:57Z,M. Márquez,Gresini Ducati,6,1,30.928,30.928,298,64,3,71,16,87,sector_completed
+2025-07-23T14:10:26Z,M. Márquez,Gresini Ducati,6,2,60.91,29.982,319,60,4,94,24,83,sector_completed
+2025-07-23T14:11:00Z,M. Márquez,Gresini Ducati,6,3,92.166,31.256,343,63,4,96,5,90,sector_completed
+2025-07-23T14:11:33Z,M. Márquez,Gresini Ducati,7,1,31.247,31.247,293,61,3,90,4,95,sector_completed
+2025-07-23T14:12:00Z,M. Márquez,Gresini Ducati,7,2,60.368,29.121,291,57,3,96,1,94,sector_completed
+2025-07-23T14:12:30Z,M. Márquez,Gresini Ducati,7,3,89.825,29.457,298,65,2,88,13,89,sector_completed
+2025-07-23T14:13:11Z,M. Márquez,Gresini Ducati,8,1,29.769,29.769,313,55,6,89,47,78,sector_completed
+2025-07-23T14:13:44Z,M. Márquez,Gresini Ducati,8,2,61.102,31.333,300,59,2,88,1,84,sector_completed
+2025-07-23T14:14:14Z,M. Márquez,Gresini Ducati,8,3,91.829,30.727,314,62,3,72,37,95,sector_completed
+2025-07-23T14:14:42Z,M. Márquez,Gresini Ducati,9,1,29.306,29.306,339,59,6,95,7,93,sector_completed
+2025-07-23T14:15:15Z,M. Márquez,Gresini Ducati,9,2,60.654,31.348,312,63,4,72,32,95,sector_completed
+2025-07-23T14:15:43Z,M. Márquez,Gresini Ducati,9,3,90.678,30.024,344,63,5,73,27,86,sector_completed
+2025-07-23T14:16:23Z,M. Márquez,Gresini Ducati,10,1,31.675,31.675,319,54,5,75,46,91,sector_completed
+2025-07-23T14:16:55Z,M. Márquez,Gresini Ducati,10,2,63.571,31.896,307,65,5,83,46,93,sector_completed
+2025-07-23T14:17:21Z,M. Márquez,Gresini Ducati,10,3,93.376,29.805,344,57,2,78,28,82,sector_completed
+2025-07-23T14:17:58Z,M. Márquez,Gresini Ducati,11,1,30.394,30.394,329,62,4,70,31,85,sector_completed
+2025-07-23T14:18:27Z,M. Márquez,Gresini Ducati,11,2,59.94,29.546,303,61,4,80,17,94,sector_completed
+2025-07-23T14:19:01Z,M. Márquez,Gresini Ducati,11,3,91.044,31.104,307,50,6,100,12,77,sector_completed
+2025-07-23T14:19:29Z,M. Márquez,Gresini Ducati,12,1,31.16,31.16,321,57,5,90,45,90,sector_completed
+2025-07-23T14:19:58Z,M. Márquez,Gresini Ducati,12,2,61.505,30.345,291,52,4,77,25,82,sector_completed
+2025-07-23T14:20:27Z,M. Márquez,Gresini Ducati,12,3,91.424,29.919,327,61,5,87,33,86,sector_completed
+2025-07-23T14:21:06Z,M. Márquez,Gresini Ducati,13,1,31.99,31.99,325,60,4,92,29,83,sector_completed
+2025-07-23T14:21:34Z,M. Márquez,Gresini Ducati,13,2,61.91,29.92,304,53,3,80,7,92,sector_completed
+2025-07-23T14:22:10Z,M. Márquez,Gresini Ducati,13,3,93.763,31.853,334,55,3,76,47,90,sector_completed
+2025-07-23T14:22:40Z,M. Márquez,Gresini Ducati,14,1,31.174,31.174,338,59,2,96,12,84,sector_completed
+2025-07-23T14:23:08Z,M. Márquez,Gresini Ducati,14,2,60.856,29.682,301,59,2,92,34,79,sector_completed
+2025-07-23T14:23:38Z,M. Márquez,Gresini Ducati,14,3,90.679,29.823,293,59,3,90,48,90,sector_completed
+2025-07-23T14:24:13Z,M. Márquez,Gresini Ducati,15,1,31.618,31.618,326,59,5,85,28,85,sector_completed
+2025-07-23T14:24:41Z,M. Márquez,Gresini Ducati,15,2,61.171,29.553,293,58,5,73,4,87,sector_completed
+2025-07-23T14:25:13Z,M. Márquez,Gresini Ducati,15,3,91.646,30.475,326,51,3,74,36,84,sector_completed
+2025-07-23T14:25:48Z,M. Márquez,Gresini Ducati,16,1,31.982,31.982,297,63,6,89,50,94,sector_completed
+2025-07-23T14:26:16Z,M. Márquez,Gresini Ducati,16,2,61.659,29.677,323,62,5,99,28,84,sector_completed
+2025-07-23T14:26:51Z,M. Márquez,Gresini Ducati,16,3,93.239,31.58,317,59,6,89,3,94,sector_completed
+2025-07-23T14:27:26Z,M. Márquez,Gresini Ducati,17,1,29.298,29.298,338,56,3,78,42,77,sector_completed
+2025-07-23T14:27:55Z,M. Márquez,Gresini Ducati,17,2,58.769,29.471,301,52,3,70,26,89,sector_completed
+2025-07-23T14:28:30Z,M. Márquez,Gresini Ducati,17,3,89.837,31.068,320,59,2,77,18,84,sector_completed
+2025-07-23T14:29:03Z,M. Márquez,Gresini Ducati,18,1,31.579,31.579,294,57,4,95,50,95,sector_completed
+2025-07-23T14:29:33Z,M. Márquez,Gresini Ducati,18,2,62.348,30.769,341,56,5,73,34,82,sector_completed
+2025-07-23T14:30:04Z,M. Márquez,Gresini Ducati,18,3,93.291,30.943,307,54,2,71,10,84,sector_completed
+2025-07-23T14:30:37Z,M. Márquez,Gresini Ducati,19,1,31.247,31.247,326,59,5,73,29,84,sector_completed
+2025-07-23T14:31:08Z,M. Márquez,Gresini Ducati,19,2,62.346,31.099,307,65,5,72,38,76,sector_completed
+2025-07-23T14:31:41Z,M. Márquez,Gresini Ducati,19,3,94.014,31.668,337,60,6,78,1,77,sector_completed
+2025-07-23T14:32:09Z,M. Márquez,Gresini Ducati,20,1,31.886,31.886,343,50,4,88,2,80,sector_completed
+2025-07-23T14:32:38Z,M. Márquez,Gresini Ducati,20,2,62.298,30.412,331,64,4,75,37,88,sector_completed
+2025-07-23T14:33:10Z,M. Márquez,Gresini Ducati,20,3,93.202,30.904,321,52,5,81,26,85,sector_completed
+2025-07-23T14:33:45Z,M. Márquez,Gresini Ducati,21,1,31.01,31.01,344,55,4,83,44,90,sector_completed
+2025-07-23T14:34:13Z,M. Márquez,Gresini Ducati,21,2,60.875,29.865,315,51,5,72,20,83,sector_completed
+2025-07-23T14:34:43Z,M. Márquez,Gresini Ducati,21,3,90.845,29.97,339,62,6,96,0,92,sector_completed
+2025-07-23T14:35:20Z,M. Márquez,Gresini Ducati,22,1,30.24,30.24,302,61,6,94,31,95,sector_completed
+2025-07-23T14:35:50Z,M. Márquez,Gresini Ducati,22,2,60.566,30.326,293,56,4,87,8,84,sector_completed
+2025-07-23T14:36:20Z,M. Márquez,Gresini Ducati,22,3,90.88,30.314,334,65,2,70,40,94,sector_completed
+2025-07-23T14:36:57Z,M. Márquez,Gresini Ducati,23,1,29.718,29.718,300,59,6,70,35,88,sector_completed
+2025-07-23T14:37:26Z,M. Márquez,Gresini Ducati,23,2,58.998,29.28,343,53,5,100,7,95,sector_completed
+2025-07-23T14:38:02Z,M. Márquez,Gresini Ducati,23,3,90.494,31.496,321,59,6,92,17,88,sector_completed
+2025-07-23T14:38:33Z,M. Márquez,Gresini Ducati,24,1,30.447,30.447,320,57,5,87,9,87,sector_completed
+2025-07-23T14:39:02Z,M. Márquez,Gresini Ducati,24,2,60.019,29.572,328,54,2,78,49,88,sector_completed
+2025-07-23T14:39:33Z,M. Márquez,Gresini Ducati,24,3,90.039,30.02,340,58,2,79,46,84,sector_completed
+2025-07-23T14:40:08Z,M. Márquez,Gresini Ducati,25,1,30.761,30.761,332,65,3,84,34,90,sector_completed
+2025-07-23T14:40:38Z,M. Márquez,Gresini Ducati,25,2,60.796,30.035,325,62,5,99,20,81,sector_completed
+2025-07-23T14:41:13Z,M. Márquez,Gresini Ducati,25,3,92.738,31.942,305,62,3,97,49,88,sector_completed
+2025-07-23T14:02:01Z,F. Quartararo,Yamaha Factory,1,1,29.955,29.955,320,62,5,91,50,95,sector_completed
+2025-07-23T14:02:35Z,F. Quartararo,Yamaha Factory,1,2,61.897,31.942,321,51,3,86,37,85,sector_completed
+2025-07-23T14:03:06Z,F. Quartararo,Yamaha Factory,1,3,93.506,31.609,345,64,2,86,29,75,sector_completed
+2025-07-23T14:03:41Z,F. Quartararo,Yamaha Factory,2,1,29.432,29.432,345,54,2,85,50,83,sector_completed
+2025-07-23T14:04:12Z,F. Quartararo,Yamaha Factory,2,2,59.448,30.016,334,62,2,97,21,92,sector_completed
+2025-07-23T14:04:42Z,F. Quartararo,Yamaha Factory,2,3,89.588,30.14,310,65,6,71,39,77,sector_completed
+2025-07-23T14:05:13Z,F. Quartararo,Yamaha Factory,3,1,30.893,30.893,308,57,2,83,6,95,sector_completed
+2025-07-23T14:05:45Z,F. Quartararo,Yamaha Factory,3,2,62.005,31.112,296,64,3,92,19,75,sector_completed
+2025-07-23T14:06:10Z,F. Quartararo,Yamaha Factory,3,3,91.143,29.138,340,51,4,81,23,88,sector_completed
+2025-07-23T14:06:47Z,F. Quartararo,Yamaha Factory,4,1,29.733,29.733,316,55,3,75,5,94,sector_completed
+2025-07-23T14:07:21Z,F. Quartararo,Yamaha Factory,4,2,61.346,31.613,329,57,5,99,37,79,sector_completed
+2025-07-23T14:07:47Z,F. Quartararo,Yamaha Factory,4,3,91.043,29.697,330,58,5,78,42,75,sector_completed
+2025-07-23T14:08:28Z,F. Quartararo,Yamaha Factory,5,1,30.396,30.396,308,55,2,84,22,93,sector_completed
+2025-07-23T14:08:57Z,F. Quartararo,Yamaha Factory,5,2,60.293,29.897,317,58,5,97,19,81,sector_completed
+2025-07-23T14:09:33Z,F. Quartararo,Yamaha Factory,5,3,92.291,31.998,344,65,2,77,24,93,sector_completed
+2025-07-23T14:09:59Z,F. Quartararo,Yamaha Factory,6,1,30.724,30.724,334,59,2,96,42,87,sector_completed
+2025-07-23T14:10:28Z,F. Quartararo,Yamaha Factory,6,2,60.547,29.823,326,51,6,93,31,84,sector_completed
+2025-07-23T14:11:02Z,F. Quartararo,Yamaha Factory,6,3,91.874,31.327,304,61,3,90,12,94,sector_completed
+2025-07-23T14:11:35Z,F. Quartararo,Yamaha Factory,7,1,31.033,31.033,336,54,2,98,40,95,sector_completed
+2025-07-23T14:12:02Z,F. Quartararo,Yamaha Factory,7,2,60.151,29.118,340,64,2,88,23,79,sector_completed
+2025-07-23T14:12:31Z,F. Quartararo,Yamaha Factory,7,3,89.421,29.27,308,60,5,75,12,79,sector_completed
+2025-07-23T14:13:13Z,F. Quartararo,Yamaha Factory,8,1,30.618,30.618,313,58,3,78,30,84,sector_completed
+2025-07-23T14:13:45Z,F. Quartararo,Yamaha Factory,8,2,61.858,31.24,311,53,5,100,4,79,sector_completed
+2025-07-23T14:14:16Z,F. Quartararo,Yamaha Factory,8,3,93.12,31.262,304,62,6,81,5,87,sector_completed
+2025-07-23T14:14:41Z,F. Quartararo,Yamaha Factory,9,1,29.793,29.793,297,64,4,91,47,83,sector_completed
+2025-07-23T14:15:13Z,F. Quartararo,Yamaha Factory,9,2,60.547,30.754,342,61,2,91,14,90,sector_completed
+2025-07-23T14:15:39Z,F. Quartararo,Yamaha Factory,9,3,89.622,29.075,325,60,6,77,41,77,sector_completed
+2025-07-23T14:16:23Z,F. Quartararo,Yamaha Factory,10,1,31.472,31.472,334,59,5,73,8,76,sector_completed
+2025-07-23T14:16:55Z,F. Quartararo,Yamaha Factory,10,2,63.311,31.839,309,65,2,73,15,92,sector_completed
+2025-07-23T14:17:20Z,F. Quartararo,Yamaha Factory,10,3,92.718,29.407,319,61,6,83,37,79,sector_completed
+2025-07-23T14:17:55Z,F. Quartararo,Yamaha Factory,11,1,30.965,30.965,343,65,6,83,17,76,sector_completed
+2025-07-23T14:18:27Z,F. Quartararo,Yamaha Factory,11,2,62.036,31.071,303,64,5,100,15,86,sector_completed
+2025-07-23T14:18:52Z,F. Quartararo,Yamaha Factory,11,3,91.334,29.298,333,61,6,98,41,86,sector_completed
+2025-07-23T14:19:27Z,F. Quartararo,Yamaha Factory,12,1,30.194,30.194,302,53,5,72,42,81,sector_completed
+2025-07-23T14:19:58Z,F. Quartararo,Yamaha Factory,12,2,61.119,30.925,328,50,2,95,21,82,sector_completed
+2025-07-23T14:20:32Z,F. Quartararo,Yamaha Factory,12,3,93.085,31.966,340,56,2,96,48,92,sector_completed
+2025-07-23T14:21:03Z,F. Quartararo,Yamaha Factory,13,1,30.759,30.759,342,57,4,94,9,94,sector_completed
+2025-07-23T14:21:31Z,F. Quartararo,Yamaha Factory,13,2,59.768,29.009,344,54,3,87,16,80,sector_completed
+2025-07-23T14:22:00Z,F. Quartararo,Yamaha Factory,13,3,89.098,29.33,345,50,3,70,22,82,sector_completed
+2025-07-23T14:22:40Z,F. Quartararo,Yamaha Factory,14,1,29.971,29.971,301,58,2,74,47,88,sector_completed
+2025-07-23T14:23:12Z,F. Quartararo,Yamaha Factory,14,2,60.549,30.578,337,52,5,84,49,86,sector_completed
+2025-07-23T14:23:42Z,F. Quartararo,Yamaha Factory,14,3,91.089,30.54,296,64,6,77,39,76,sector_completed
+2025-07-23T14:24:18Z,F. Quartararo,Yamaha Factory,15,1,31.35,31.35,345,59,5,90,1,76,sector_completed
+2025-07-23T14:24:50Z,F. Quartararo,Yamaha Factory,15,2,63.346,31.996,344,62,5,91,6,90,sector_completed
+2025-07-23T14:25:20Z,F. Quartararo,Yamaha Factory,15,3,94.483,31.137,318,52,2,80,38,79,sector_completed
+2025-07-23T14:25:46Z,F. Quartararo,Yamaha Factory,16,1,29.379,29.379,329,60,5,89,33,84,sector_completed
+2025-07-23T14:26:17Z,F. Quartararo,Yamaha Factory,16,2,59.74,30.361,328,63,2,95,44,78,sector_completed
+2025-07-23T14:26:51Z,F. Quartararo,Yamaha Factory,16,3,91.298,31.558,331,56,5,84,14,88,sector_completed
+2025-07-23T14:27:25Z,F. Quartararo,Yamaha Factory,17,1,31.482,31.482,315,63,2,80,27,85,sector_completed
+2025-07-23T14:27:55Z,F. Quartararo,Yamaha Factory,17,2,62.477,30.995,313,54,5,72,5,77,sector_completed
+2025-07-23T14:28:21Z,F. Quartararo,Yamaha Factory,17,3,91.757,29.28,296,61,3,87,3,93,sector_completed
+2025-07-23T14:29:01Z,F. Quartararo,Yamaha Factory,18,1,30.685,30.685,332,53,5,81,42,88,sector_completed
+2025-07-23T14:29:34Z,F. Quartararo,Yamaha Factory,18,2,62.289,31.604,336,51,4,89,19,86,sector_completed
+2025-07-23T14:29:58Z,F. Quartararo,Yamaha Factory,18,3,91.6,29.311,322,56,3,91,30,82,sector_completed
+2025-07-23T14:30:37Z,F. Quartararo,Yamaha Factory,19,1,29.325,29.325,344,61,2,94,17,93,sector_completed
+2025-07-23T14:31:07Z,F. Quartararo,Yamaha Factory,19,2,59.003,29.678,317,50,6,99,42,83,sector_completed
+2025-07-23T14:31:35Z,F. Quartararo,Yamaha Factory,19,3,88.09,29.087,307,59,4,81,0,80,sector_completed
+2025-07-23T14:32:12Z,F. Quartararo,Yamaha Factory,20,1,29.43,29.43,332,62,2,74,47,95,sector_completed
+2025-07-23T14:32:46Z,F. Quartararo,Yamaha Factory,20,2,61.345,31.915,295,56,5,83,29,85,sector_completed
+2025-07-23T14:33:11Z,F. Quartararo,Yamaha Factory,20,3,90.817,29.472,309,60,6,89,5,76,sector_completed
+2025-07-23T14:33:42Z,F. Quartararo,Yamaha Factory,21,1,29.472,29.472,329,51,2,78,28,88,sector_completed
+2025-07-23T14:34:13Z,F. Quartararo,Yamaha Factory,21,2,59.929,30.457,318,63,4,76,48,91,sector_completed
+2025-07-23T14:34:41Z,F. Quartararo,Yamaha Factory,21,3,89.27,29.341,317,53,4,91,43,93,sector_completed
+2025-07-23T14:35:20Z,F. Quartararo,Yamaha Factory,22,1,30.581,30.581,309,51,3,82,38,76,sector_completed
+2025-07-23T14:35:48Z,F. Quartararo,Yamaha Factory,22,2,59.604,29.023,309,56,3,94,16,84,sector_completed
+2025-07-23T14:36:19Z,F. Quartararo,Yamaha Factory,22,3,89.588,29.984,290,65,5,75,8,87,sector_completed
+2025-07-23T14:36:57Z,F. Quartararo,Yamaha Factory,23,1,31.111,31.111,322,61,2,82,47,76,sector_completed
+2025-07-23T14:37:26Z,F. Quartararo,Yamaha Factory,23,2,61.42,30.309,319,52,4,88,27,93,sector_completed
+2025-07-23T14:37:56Z,F. Quartararo,Yamaha Factory,23,3,91.633,30.213,330,63,4,73,25,75,sector_completed
+2025-07-23T14:38:28Z,F. Quartararo,Yamaha Factory,24,1,29.516,29.516,329,64,4,72,27,78,sector_completed
+2025-07-23T14:38:58Z,F. Quartararo,Yamaha Factory,24,2,59.246,29.73,327,62,6,72,25,84,sector_completed
+2025-07-23T14:39:32Z,F. Quartararo,Yamaha Factory,24,3,90.483,31.237,304,60,3,72,32,95,sector_completed
+2025-07-23T14:40:02Z,F. Quartararo,Yamaha Factory,25,1,30.592,30.592,302,61,4,93,41,79,sector_completed
+2025-07-23T14:40:31Z,F. Quartararo,Yamaha Factory,25,2,60.301,29.709,299,58,3,75,38,79,sector_completed
+2025-07-23T14:41:05Z,F. Quartararo,Yamaha Factory,25,3,91.582,31.281,331,52,3,100,49,95,sector_completed
+2025-07-23T14:02:05Z,A. Espargaró,Aprilia Racing,1,1,30.392,30.392,326,64,6,90,40,94,sector_completed
+2025-07-23T14:02:34Z,A. Espargaró,Aprilia Racing,1,2,60.362,29.97,330,60,3,84,4,90,sector_completed
+2025-07-23T14:03:05Z,A. Espargaró,Aprilia Racing,1,3,90.689,30.327,309,58,6,71,22,91,sector_completed
+2025-07-23T14:03:36Z,A. Espargaró,Aprilia Racing,2,1,29.931,29.931,318,51,2,81,18,77,sector_completed
+2025-07-23T14:04:08Z,A. Espargaró,Aprilia Racing,2,2,60.865,30.934,344,52,6,89,32,87,sector_completed
+2025-07-23T14:04:38Z,A. Espargaró,Aprilia Racing,2,3,91.253,30.388,325,51,5,99,36,95,sector_completed
+2025-07-23T14:05:12Z,A. Espargaró,Aprilia Racing,3,1,29.965,29.965,320,54,2,84,6,85,sector_completed
+2025-07-23T14:05:46Z,A. Espargaró,Aprilia Racing,3,2,61.912,31.947,295,55,2,77,45,89,sector_completed
+2025-07-23T14:06:18Z,A. Espargaró,Aprilia Racing,3,3,93.885,31.973,323,55,4,81,18,87,sector_completed
+2025-07-23T14:06:51Z,A. Espargaró,Aprilia Racing,4,1,31.323,31.323,333,51,4,72,21,78,sector_completed
+2025-07-23T14:07:21Z,A. Espargaró,Aprilia Racing,4,2,61.997,30.674,314,59,4,93,42,94,sector_completed
+2025-07-23T14:07:54Z,A. Espargaró,Aprilia Racing,4,3,93.617,31.62,311,52,6,91,9,86,sector_completed
+2025-07-23T14:08:25Z,A. Espargaró,Aprilia Racing,5,1,31.903,31.903,334,62,3,89,45,77,sector_completed
+2025-07-23T14:08:53Z,A. Espargaró,Aprilia Racing,5,2,61.832,29.929,314,60,3,91,44,91,sector_completed
+2025-07-23T14:09:21Z,A. Espargaró,Aprilia Racing,5,3,91.112,29.28,332,63,6,81,1,86,sector_completed
+2025-07-23T14:09:58Z,A. Espargaró,Aprilia Racing,6,1,29.541,29.541,303,60,5,76,14,79,sector_completed
+2025-07-23T14:10:27Z,A. Espargaró,Aprilia Racing,6,2,59.006,29.465,308,53,6,94,34,91,sector_completed
+2025-07-23T14:10:56Z,A. Espargaró,Aprilia Racing,6,3,88.119,29.113,311,54,6,82,9,80,sector_completed
+2025-07-23T14:11:34Z,A. Espargaró,Aprilia Racing,7,1,31.494,31.494,339,55,5,71,26,86,sector_completed
+2025-07-23T14:12:05Z,A. Espargaró,Aprilia Racing,7,2,62.523,31.029,305,64,6,79,48,89,sector_completed
+2025-07-23T14:12:32Z,A. Espargaró,Aprilia Racing,7,3,92.225,29.702,305,59,5,98,12,86,sector_completed
+2025-07-23T14:13:13Z,A. Espargaró,Aprilia Racing,8,1,31.841,31.841,318,64,4,94,24,91,sector_completed
+2025-07-23T14:13:43Z,A. Espargaró,Aprilia Racing,8,2,62.423,30.582,300,56,6,74,16,76,sector_completed
+2025-07-23T14:14:14Z,A. Espargaró,Aprilia Racing,8,3,93.347,30.924,345,61,6,99,6,91,sector_completed
+2025-07-23T14:14:47Z,A. Espargaró,Aprilia Racing,9,1,29.374,29.374,295,55,4,84,32,79,sector_completed
+2025-07-23T14:15:20Z,A. Espargaró,Aprilia Racing,9,2,60.867,31.493,295,57,5,98,22,75,sector_completed
+2025-07-23T14:15:48Z,A. Espargaró,Aprilia Racing,9,3,91.112,30.245,315,61,3,82,5,86,sector_completed
+2025-07-23T14:16:17Z,A. Espargaró,Aprilia Racing,10,1,29.085,29.085,296,60,3,74,2,84,sector_completed
+2025-07-23T14:16:51Z,A. Espargaró,Aprilia Racing,10,2,60.837,31.752,320,54,5,84,39,75,sector_completed
+2025-07-23T14:17:23Z,A. Espargaró,Aprilia Racing,10,3,92.555,31.718,291,58,3,96,9,92,sector_completed
+2025-07-23T14:17:57Z,A. Espargaró,Aprilia Racing,11,1,30.827,30.827,317,53,4,77,19,78,sector_completed
+2025-07-23T14:18:25Z,A. Espargaró,Aprilia Racing,11,2,59.97,29.143,316,64,2,73,31,94,sector_completed
+2025-07-23T14:18:58Z,A. Espargaró,Aprilia Racing,11,3,90.578,30.608,330,57,3,79,27,75,sector_completed
+2025-07-23T14:19:31Z,A. Espargaró,Aprilia Racing,12,1,30.058,30.058,326,63,3,91,42,77,sector_completed
+2025-07-23T14:20:02Z,A. Espargaró,Aprilia Racing,12,2,60.628,30.57,313,52,6,87,32,91,sector_completed
+2025-07-23T14:20:32Z,A. Espargaró,Aprilia Racing,12,3,91.29,30.662,314,65,2,90,24,86,sector_completed
+2025-07-23T14:21:05Z,A. Espargaró,Aprilia Racing,13,1,31.242,31.242,312,52,4,77,46,95,sector_completed
+2025-07-23T14:21:32Z,A. Espargaró,Aprilia Racing,13,2,60.553,29.311,327,60,3,71,22,92,sector_completed
+2025-07-23T14:22:04Z,A. Espargaró,Aprilia Racing,13,3,90.569,30.016,331,55,5,92,30,95,sector_completed
+2025-07-23T14:22:39Z,A. Espargaró,Aprilia Racing,14,1,31.434,31.434,294,64,2,79,12,76,sector_completed
+2025-07-23T14:23:10Z,A. Espargaró,Aprilia Racing,14,2,62.807,31.373,292,60,4,86,25,92,sector_completed
+2025-07-23T14:23:39Z,A. Espargaró,Aprilia Racing,14,3,93.227,30.42,292,56,4,81,49,76,sector_completed
+2025-07-23T14:24:18Z,A. Espargaró,Aprilia Racing,15,1,30.967,30.967,307,53,4,83,25,89,sector_completed
+2025-07-23T14:24:51Z,A. Espargaró,Aprilia Racing,15,2,62.651,31.684,314,60,3,85,44,90,sector_completed
+2025-07-23T14:25:18Z,A. Espargaró,Aprilia Racing,15,3,92.753,30.102,341,58,2,93,27,77,sector_completed
+2025-07-23T14:25:50Z,A. Espargaró,Aprilia Racing,16,1,30.807,30.807,342,55,6,79,20,78,sector_completed
+2025-07-23T14:26:18Z,A. Espargaró,Aprilia Racing,16,2,60.047,29.24,332,59,4,84,38,88,sector_completed
+2025-07-23T14:26:48Z,A. Espargaró,Aprilia Racing,16,3,89.547,29.5,318,61,5,71,46,86,sector_completed
+2025-07-23T14:27:27Z,A. Espargaró,Aprilia Racing,17,1,31.994,31.994,307,51,2,91,40,87,sector_completed
+2025-07-23T14:27:56Z,A. Espargaró,Aprilia Racing,17,2,62.084,30.09,341,55,2,74,38,89,sector_completed
+2025-07-23T14:28:23Z,A. Espargaró,Aprilia Racing,17,3,91.188,29.104,294,57,4,81,24,93,sector_completed
+2025-07-23T14:28:57Z,A. Espargaró,Aprilia Racing,18,1,30.815,30.815,333,64,4,81,28,77,sector_completed
+2025-07-23T14:29:28Z,A. Espargaró,Aprilia Racing,18,2,61.537,30.722,323,61,5,80,41,83,sector_completed
+2025-07-23T14:29:56Z,A. Espargaró,Aprilia Racing,18,3,91.286,29.749,297,50,3,85,33,87,sector_completed
+2025-07-23T14:30:35Z,A. Espargaró,Aprilia Racing,19,1,29.353,29.353,339,58,5,76,39,84,sector_completed
+2025-07-23T14:31:08Z,A. Espargaró,Aprilia Racing,19,2,60.435,31.082,321,56,2,74,4,89,sector_completed
+2025-07-23T14:31:34Z,A. Espargaró,Aprilia Racing,19,3,89.953,29.518,335,64,2,95,43,85,sector_completed
+2025-07-23T14:32:12Z,A. Espargaró,Aprilia Racing,20,1,30.042,30.042,294,59,4,97,10,95,sector_completed
+2025-07-23T14:32:41Z,A. Espargaró,Aprilia Racing,20,2,59.564,29.522,313,57,2,76,50,79,sector_completed
+2025-07-23T14:33:11Z,A. Espargaró,Aprilia Racing,20,3,89.274,29.71,321,50,4,87,36,86,sector_completed
+2025-07-23T14:33:46Z,A. Espargaró,Aprilia Racing,21,1,31.411,31.411,325,54,6,98,5,77,sector_completed
+2025-07-23T14:34:14Z,A. Espargaró,Aprilia Racing,21,2,61.339,29.928,335,65,6,83,49,88,sector_completed
+2025-07-23T14:34:49Z,A. Espargaró,Aprilia Racing,21,3,92.809,31.47,294,54,4,90,4,89,sector_completed
+2025-07-23T14:35:21Z,A. Espargaró,Aprilia Racing,22,1,31.04,31.04,312,54,6,90,37,80,sector_completed
+2025-07-23T14:35:52Z,A. Espargaró,Aprilia Racing,22,2,62.343,31.303,298,63,6,99,3,78,sector_completed
+2025-07-23T14:36:21Z,A. Espargaró,Aprilia Racing,22,3,92.897,30.554,309,55,3,80,45,82,sector_completed
+2025-07-23T14:36:55Z,A. Espargaró,Aprilia Racing,23,1,31.842,31.842,323,59,2,78,12,95,sector_completed
+2025-07-23T14:37:27Z,A. Espargaró,Aprilia Racing,23,2,63.711,31.869,307,54,4,89,34,77,sector_completed
+2025-07-23T14:37:55Z,A. Espargaró,Aprilia Racing,23,3,94.219,30.508,300,54,3,91,39,94,sector_completed
+2025-07-23T14:38:30Z,A. Espargaró,Aprilia Racing,24,1,31.528,31.528,326,51,2,72,2,95,sector_completed
+2025-07-23T14:39:01Z,A. Espargaró,Aprilia Racing,24,2,62.841,31.313,306,56,6,83,39,95,sector_completed
+2025-07-23T14:39:26Z,A. Espargaró,Aprilia Racing,24,3,91.932,29.091,330,59,4,85,15,87,sector_completed
+2025-07-23T14:40:04Z,A. Espargaró,Aprilia Racing,25,1,30.361,30.361,334,51,3,84,26,90,sector_completed
+2025-07-23T14:40:34Z,A. Espargaró,Aprilia Racing,25,2,60.754,30.393,311,54,4,97,45,85,sector_completed
+2025-07-23T14:41:07Z,A. Espargaró,Aprilia Racing,25,3,91.957,31.203,345,61,5,74,48,86,sector_completed
+2025-07-23T14:02:06Z,J. Martin,Pramac Ducati,1,1,30.685,30.685,310,57,5,73,17,89,sector_completed
+2025-07-23T14:02:35Z,J. Martin,Pramac Ducati,1,2,60.429,29.744,296,51,4,100,24,94,sector_completed
+2025-07-23T14:03:06Z,J. Martin,Pramac Ducati,1,3,90.683,30.254,345,55,4,99,36,85,sector_completed
+2025-07-23T14:03:39Z,J. Martin,Pramac Ducati,2,1,31.289,31.289,321,64,5,98,19,90,sector_completed
+2025-07-23T14:04:06Z,J. Martin,Pramac Ducati,2,2,60.359,29.07,315,64,3,76,37,86,sector_completed
+2025-07-23T14:04:35Z,J. Martin,Pramac Ducati,2,3,89.505,29.146,308,65,6,98,41,90,sector_completed
+2025-07-23T14:05:14Z,J. Martin,Pramac Ducati,3,1,30.61,30.61,344,53,5,74,16,86,sector_completed
+2025-07-23T14:05:46Z,J. Martin,Pramac Ducati,3,2,61.902,31.292,313,51,5,71,36,92,sector_completed
+2025-07-23T14:06:12Z,J. Martin,Pramac Ducati,3,3,91.486,29.584,325,59,2,82,32,89,sector_completed
+2025-07-23T14:06:53Z,J. Martin,Pramac Ducati,4,1,30.65,30.65,342,53,3,73,25,86,sector_completed
+2025-07-23T14:07:25Z,J. Martin,Pramac Ducati,4,2,62.035,31.385,311,61,3,76,38,91,sector_completed
+2025-07-23T14:07:53Z,J. Martin,Pramac Ducati,4,3,92.239,30.204,292,51,2,74,45,85,sector_completed
+2025-07-23T14:08:28Z,J. Martin,Pramac Ducati,5,1,30.421,30.421,319,54,6,98,32,79,sector_completed
+2025-07-23T14:08:57Z,J. Martin,Pramac Ducati,5,2,60.405,29.984,329,60,3,82,39,84,sector_completed
+2025-07-23T14:09:30Z,J. Martin,Pramac Ducati,5,3,91.186,30.781,322,65,6,79,30,75,sector_completed
+2025-07-23T14:09:58Z,J. Martin,Pramac Ducati,6,1,29.994,29.994,297,63,6,79,50,95,sector_completed
+2025-07-23T14:10:27Z,J. Martin,Pramac Ducati,6,2,59.074,29.08,320,58,6,88,14,76,sector_completed
+2025-07-23T14:11:01Z,J. Martin,Pramac Ducati,6,3,89.825,30.751,300,62,3,96,43,82,sector_completed
+2025-07-23T14:11:32Z,J. Martin,Pramac Ducati,7,1,30.718,30.718,334,53,3,70,28,85,sector_completed
+2025-07-23T14:12:02Z,J. Martin,Pramac Ducati,7,2,60.974,30.256,316,56,5,86,49,94,sector_completed
+2025-07-23T14:12:37Z,J. Martin,Pramac Ducati,7,3,92.736,31.762,345,51,3,86,13,92,sector_completed
+2025-07-23T14:13:10Z,J. Martin,Pramac Ducati,8,1,31.994,31.994,320,62,4,100,11,89,sector_completed
+2025-07-23T14:13:42Z,J. Martin,Pramac Ducati,8,2,63.73,31.736,311,61,4,89,30,81,sector_completed
+2025-07-23T14:14:14Z,J. Martin,Pramac Ducati,8,3,95.602,31.872,307,59,3,100,19,84,sector_completed
+2025-07-23T14:14:46Z,J. Martin,Pramac Ducati,9,1,29.622,29.622,335,65,4,85,22,92,sector_completed
+2025-07-23T14:15:20Z,J. Martin,Pramac Ducati,9,2,61.423,31.801,340,58,4,73,36,92,sector_completed
+2025-07-23T14:15:47Z,J. Martin,Pramac Ducati,9,3,91.562,30.139,315,61,3,79,2,84,sector_completed
+2025-07-23T14:16:21Z,J. Martin,Pramac Ducati,10,1,29.237,29.237,318,58,5,76,12,92,sector_completed
+2025-07-23T14:16:51Z,J. Martin,Pramac Ducati,10,2,59.05,29.813,325,58,3,73,39,93,sector_completed
+2025-07-23T14:17:21Z,J. Martin,Pramac Ducati,10,3,88.768,29.718,293,57,3,71,6,88,sector_completed
+2025-07-23T14:17:55Z,J. Martin,Pramac Ducati,11,1,31.152,31.152,296,54,2,100,35,80,sector_completed
+2025-07-23T14:18:24Z,J. Martin,Pramac Ducati,11,2,61.373,30.221,320,65,3,94,18,85,sector_completed
+2025-07-23T14:18:53Z,J. Martin,Pramac Ducati,11,3,91.229,29.856,293,52,6,77,34,76,sector_completed
+2025-07-23T14:19:28Z,J. Martin,Pramac Ducati,12,1,30.254,30.254,343,55,2,96,25,90,sector_completed
+2025-07-23T14:19:57Z,J. Martin,Pramac Ducati,12,2,59.813,29.559,337,59,2,70,19,93,sector_completed
+2025-07-23T14:20:30Z,J. Martin,Pramac Ducati,12,3,90.621,30.808,311,59,5,90,34,91,sector_completed
+2025-07-23T14:21:06Z,J. Martin,Pramac Ducati,13,1,31.668,31.668,298,64,4,76,7,85,sector_completed
+2025-07-23T14:21:33Z,J. Martin,Pramac Ducati,13,2,61.155,29.487,319,58,3,70,47,85,sector_completed
+2025-07-23T14:22:09Z,J. Martin,Pramac Ducati,13,3,92.527,31.372,326,56,3,89,40,87,sector_completed
+2025-07-23T14:22:43Z,J. Martin,Pramac Ducati,14,1,30.283,30.283,310,52,5,91,6,80,sector_completed
+2025-07-23T14:23:16Z,J. Martin,Pramac Ducati,14,2,62.228,31.945,320,60,3,70,16,87,sector_completed
+2025-07-23T14:23:42Z,J. Martin,Pramac Ducati,14,3,91.935,29.707,338,58,4,79,37,93,sector_completed
+2025-07-23T14:24:11Z,J. Martin,Pramac Ducati,15,1,29.785,29.785,313,57,2,91,7,89,sector_completed
+2025-07-23T14:24:41Z,J. Martin,Pramac Ducati,15,2,59.705,29.92,315,59,2,90,18,86,sector_completed
+2025-07-23T14:25:14Z,J. Martin,Pramac Ducati,15,3,90.549,30.844,304,54,5,74,29,94,sector_completed
+2025-07-23T14:25:49Z,J. Martin,Pramac Ducati,16,1,30.248,30.248,325,65,6,95,42,81,sector_completed
+2025-07-23T14:26:21Z,J. Martin,Pramac Ducati,16,2,61.534,31.286,333,52,6,84,33,86,sector_completed
+2025-07-23T14:26:46Z,J. Martin,Pramac Ducati,16,3,90.768,29.234,326,53,2,96,35,91,sector_completed
+2025-07-23T14:27:23Z,J. Martin,Pramac Ducati,17,1,30.718,30.718,299,55,4,97,33,89,sector_completed
+2025-07-23T14:27:51Z,J. Martin,Pramac Ducati,17,2,60.067,29.349,303,65,2,98,32,89,sector_completed
+2025-07-23T14:28:27Z,J. Martin,Pramac Ducati,17,3,91.493,31.426,319,54,6,83,29,93,sector_completed
+2025-07-23T14:28:57Z,J. Martin,Pramac Ducati,18,1,30.676,30.676,333,59,2,82,16,75,sector_completed
+2025-07-23T14:29:29Z,J. Martin,Pramac Ducati,18,2,61.913,31.237,327,52,2,83,22,77,sector_completed
+2025-07-23T14:29:58Z,J. Martin,Pramac Ducati,18,3,92.536,30.623,293,52,5,71,18,88,sector_completed
+2025-07-23T14:30:34Z,J. Martin,Pramac Ducati,19,1,31.307,31.307,339,63,4,98,24,89,sector_completed
+2025-07-23T14:31:06Z,J. Martin,Pramac Ducati,19,2,62.916,31.609,314,62,2,91,42,92,sector_completed
+2025-07-23T14:31:31Z,J. Martin,Pramac Ducati,19,3,92.315,29.399,345,61,2,75,34,87,sector_completed
+2025-07-23T14:32:10Z,J. Martin,Pramac Ducati,20,1,29.382,29.382,304,50,2,79,29,92,sector_completed
+2025-07-23T14:32:41Z,J. Martin,Pramac Ducati,20,2,59.654,30.272,314,57,3,84,22,79,sector_completed
+2025-07-23T14:33:10Z,J. Martin,Pramac Ducati,20,3,89.481,29.827,336,53,2,95,42,88,sector_completed
+2025-07-23T14:33:47Z,J. Martin,Pramac Ducati,21,1,31.298,31.298,291,57,3,72,6,94,sector_completed
+2025-07-23T14:34:14Z,J. Martin,Pramac Ducati,21,2,60.399,29.101,328,51,3,93,2,87,sector_completed
+2025-07-23T14:34:46Z,J. Martin,Pramac Ducati,21,3,90.716,30.317,324,56,2,74,32,84,sector_completed
+2025-07-23T14:35:19Z,J. Martin,Pramac Ducati,22,1,31.447,31.447,336,60,6,89,49,85,sector_completed
+2025-07-23T14:35:47Z,J. Martin,Pramac Ducati,22,2,61.158,29.711,299,57,5,79,17,76,sector_completed
+2025-07-23T14:36:20Z,J. Martin,Pramac Ducati,22,3,91.828,30.67,327,55,5,87,31,76,sector_completed
+2025-07-23T14:36:55Z,J. Martin,Pramac Ducati,23,1,31.825,31.825,332,62,6,80,44,88,sector_completed
+2025-07-23T14:37:24Z,J. Martin,Pramac Ducati,23,2,62.05,30.225,309,62,3,94,34,90,sector_completed
+2025-07-23T14:37:53Z,J. Martin,Pramac Ducati,23,3,91.773,29.723,304,59,3,95,29,76,sector_completed
+2025-07-23T14:38:31Z,J. Martin,Pramac Ducati,24,1,30.238,30.238,316,54,5,77,16,81,sector_completed
+2025-07-23T14:39:00Z,J. Martin,Pramac Ducati,24,2,60.229,29.991,295,64,4,72,34,81,sector_completed
+2025-07-23T14:39:28Z,J. Martin,Pramac Ducati,24,3,89.384,29.155,314,51,2,76,48,93,sector_completed
+2025-07-23T14:40:08Z,J. Martin,Pramac Ducati,25,1,31.014,31.014,303,65,3,97,21,84,sector_completed
+2025-07-23T14:40:40Z,J. Martin,Pramac Ducati,25,2,62.885,31.871,290,56,3,100,47,78,sector_completed
+2025-07-23T14:41:10Z,J. Martin,Pramac Ducati,25,3,94.126,31.241,338,65,3,92,38,81,sector_completed
+2025-07-23T14:02:06Z,E. Bastianini,Ducati Lenovo,1,1,31.745,31.745,325,60,4,82,29,92,sector_completed
+2025-07-23T14:02:36Z,E. Bastianini,Ducati Lenovo,1,2,62.691,30.946,309,58,4,86,31,89,sector_completed
+2025-07-23T14:03:02Z,E. Bastianini,Ducati Lenovo,1,3,91.987,29.296,336,65,4,99,13,86,sector_completed
+2025-07-23T14:03:39Z,E. Bastianini,Ducati Lenovo,2,1,30.242,30.242,326,57,3,70,16,92,sector_completed
+2025-07-23T14:04:12Z,E. Bastianini,Ducati Lenovo,2,2,62.046,31.804,327,63,4,74,12,85,sector_completed
+2025-07-23T14:04:38Z,E. Bastianini,Ducati Lenovo,2,3,91.736,29.69,326,57,5,87,41,85,sector_completed
+2025-07-23T14:05:15Z,E. Bastianini,Ducati Lenovo,3,1,31.29,31.29,321,65,5,75,46,86,sector_completed
+2025-07-23T14:05:43Z,E. Bastianini,Ducati Lenovo,3,2,60.798,29.508,336,65,3,99,34,95,sector_completed
+2025-07-23T14:06:19Z,E. Bastianini,Ducati Lenovo,3,3,92.67,31.872,323,51,2,100,42,76,sector_completed
+2025-07-23T14:06:52Z,E. Bastianini,Ducati Lenovo,4,1,29.019,29.019,298,57,2,92,9,75,sector_completed
+2025-07-23T14:07:22Z,E. Bastianini,Ducati Lenovo,4,2,58.675,29.656,319,61,2,89,40,94,sector_completed
+2025-07-23T14:07:58Z,E. Bastianini,Ducati Lenovo,4,3,90.413,31.738,332,65,2,70,34,92,sector_completed
+2025-07-23T14:08:24Z,E. Bastianini,Ducati Lenovo,5,1,29.036,29.036,323,58,6,79,1,91,sector_completed
+2025-07-23T14:08:57Z,E. Bastianini,Ducati Lenovo,5,2,60.475,31.439,333,63,3,73,6,91,sector_completed
+2025-07-23T14:09:23Z,E. Bastianini,Ducati Lenovo,5,3,89.922,29.447,302,58,4,78,50,87,sector_completed
+2025-07-23T14:09:57Z,E. Bastianini,Ducati Lenovo,6,1,30.119,30.119,315,64,6,77,44,82,sector_completed
+2025-07-23T14:10:26Z,E. Bastianini,Ducati Lenovo,6,2,60.019,29.9,342,52,2,72,25,87,sector_completed
+2025-07-23T14:10:57Z,E. Bastianini,Ducati Lenovo,6,3,90.151,30.132,320,51,2,92,10,77,sector_completed
+2025-07-23T14:11:36Z,E. Bastianini,Ducati Lenovo,7,1,31.536,31.536,331,60,6,97,6,91,sector_completed
+2025-07-23T14:12:08Z,E. Bastianini,Ducati Lenovo,7,2,63.293,31.757,304,56,6,85,17,76,sector_completed
+2025-07-23T14:12:40Z,E. Bastianini,Ducati Lenovo,7,3,95.065,31.772,333,58,6,88,42,76,sector_completed
+2025-07-23T14:13:09Z,E. Bastianini,Ducati Lenovo,8,1,31.786,31.786,310,50,3,88,9,87,sector_completed
+2025-07-23T14:13:41Z,E. Bastianini,Ducati Lenovo,8,2,63.573,31.787,309,55,6,77,36,87,sector_completed
+2025-07-23T14:14:11Z,E. Bastianini,Ducati Lenovo,8,3,94.604,31.031,324,60,5,94,47,79,sector_completed
+2025-07-23T14:14:49Z,E. Bastianini,Ducati Lenovo,9,1,31.965,31.965,336,52,6,93,22,76,sector_completed
+2025-07-23T14:15:16Z,E. Bastianini,Ducati Lenovo,9,2,61.258,29.293,304,52,4,89,49,94,sector_completed
+2025-07-23T14:15:53Z,E. Bastianini,Ducati Lenovo,9,3,93.123,31.865,315,60,2,90,17,89,sector_completed
+2025-07-23T14:16:19Z,E. Bastianini,Ducati Lenovo,10,1,29.684,29.684,325,62,5,75,43,93,sector_completed
+2025-07-23T14:16:51Z,E. Bastianini,Ducati Lenovo,10,2,60.666,30.982,295,59,3,92,4,77,sector_completed
+2025-07-23T14:17:19Z,E. Bastianini,Ducati Lenovo,10,3,90.47,29.804,314,54,5,80,23,78,sector_completed
+2025-07-23T14:17:51Z,E. Bastianini,Ducati Lenovo,11,1,29.016,29.016,309,64,4,94,17,78,sector_completed
+2025-07-23T14:18:20Z,E. Bastianini,Ducati Lenovo,11,2,58.414,29.398,301,63,5,87,35,91,sector_completed
+2025-07-23T14:18:52Z,E. Bastianini,Ducati Lenovo,11,3,88.638,30.224,291,52,4,87,5,94,sector_completed
+2025-07-23T14:19:32Z,E. Bastianini,Ducati Lenovo,12,1,31.353,31.353,345,62,2,79,26,87,sector_completed
+2025-07-23T14:20:03Z,E. Bastianini,Ducati Lenovo,12,2,62.691,31.338,336,57,6,86,10,87,sector_completed
+2025-07-23T14:20:29Z,E. Bastianini,Ducati Lenovo,12,3,92.2,29.509,307,59,4,85,9,77,sector_completed
+2025-07-23T14:21:03Z,E. Bastianini,Ducati Lenovo,13,1,30.304,30.304,316,59,5,95,4,86,sector_completed
+2025-07-23T14:21:32Z,E. Bastianini,Ducati Lenovo,13,2,60.059,29.755,305,65,6,89,12,89,sector_completed
+2025-07-23T14:22:00Z,E. Bastianini,Ducati Lenovo,13,3,89.38,29.321,309,50,5,80,39,87,sector_completed
+2025-07-23T14:22:44Z,E. Bastianini,Ducati Lenovo,14,1,31.587,31.587,318,60,5,96,41,94,sector_completed
+2025-07-23T14:23:11Z,E. Bastianini,Ducati Lenovo,14,2,60.995,29.408,310,56,5,80,11,87,sector_completed
+2025-07-23T14:23:48Z,E. Bastianini,Ducati Lenovo,14,3,92.901,31.906,308,65,6,95,15,85,sector_completed
+2025-07-23T14:24:14Z,E. Bastianini,Ducati Lenovo,15,1,29.841,29.841,340,62,4,73,36,81,sector_completed
+2025-07-23T14:24:46Z,E. Bastianini,Ducati Lenovo,15,2,60.618,30.777,324,55,6,70,46,89,sector_completed
+2025-07-23T14:25:20Z,E. Bastianini,Ducati Lenovo,15,3,92.447,31.829,303,64,4,96,44,77,sector_completed
+2025-07-23T14:25:54Z,E. Bastianini,Ducati Lenovo,16,1,31.543,31.543,340,63,5,74,40,84,sector_completed
+2025-07-23T14:26:22Z,E. Bastianini,Ducati Lenovo,16,2,61.269,29.726,332,54,5,95,24,77,sector_completed
+2025-07-23T14:26:54Z,E. Bastianini,Ducati Lenovo,16,3,91.616,30.347,328,65,6,82,34,91,sector_completed
+2025-07-23T14:27:29Z,E. Bastianini,Ducati Lenovo,17,1,31.075,31.075,324,51,4,92,34,94,sector_completed
+2025-07-23T14:27:59Z,E. Bastianini,Ducati Lenovo,17,2,61.99,30.915,295,53,3,91,42,86,sector_completed
+2025-07-23T14:28:26Z,E. Bastianini,Ducati Lenovo,17,3,91.489,29.499,329,51,6,90,43,95,sector_completed
+2025-07-23T14:29:01Z,E. Bastianini,Ducati Lenovo,18,1,31.9,31.9,311,63,2,70,6,83,sector_completed
+2025-07-23T14:29:29Z,E. Bastianini,Ducati Lenovo,18,2,61.566,29.666,337,57,5,81,25,89,sector_completed
+2025-07-23T14:30:03Z,E. Bastianini,Ducati Lenovo,18,3,92.883,31.317,327,54,4,70,30,78,sector_completed
+2025-07-23T14:30:34Z,E. Bastianini,Ducati Lenovo,19,1,30.248,30.248,295,53,3,81,19,85,sector_completed
+2025-07-23T14:31:04Z,E. Bastianini,Ducati Lenovo,19,2,60.614,30.366,303,65,4,85,6,89,sector_completed
+2025-07-23T14:31:37Z,E. Bastianini,Ducati Lenovo,19,3,91.78,31.166,318,60,2,79,2,78,sector_completed
+2025-07-23T14:32:08Z,E. Bastianini,Ducati Lenovo,20,1,31.548,31.548,331,53,3,99,47,82,sector_completed
+2025-07-23T14:32:38Z,E. Bastianini,Ducati Lenovo,20,2,62.096,30.548,325,55,4,87,27,89,sector_completed
+2025-07-23T14:33:06Z,E. Bastianini,Ducati Lenovo,20,3,91.792,29.696,315,55,3,90,42,88,sector_completed
+2025-07-23T14:33:44Z,E. Bastianini,Ducati Lenovo,21,1,29.088,29.088,329,56,5,88,27,87,sector_completed
+2025-07-23T14:34:13Z,E. Bastianini,Ducati Lenovo,21,2,58.101,29.013,303,56,4,94,45,77,sector_completed
+2025-07-23T14:34:47Z,E. Bastianini,Ducati Lenovo,21,3,88.833,30.732,341,55,4,80,12,89,sector_completed
+2025-07-23T14:35:16Z,E. Bastianini,Ducati Lenovo,22,1,29.787,29.787,345,65,6,100,40,85,sector_completed
+2025-07-23T14:35:48Z,E. Bastianini,Ducati Lenovo,22,2,60.578,30.791,329,62,6,73,22,86,sector_completed
+2025-07-23T14:36:21Z,E. Bastianini,Ducati Lenovo,22,3,92.115,31.537,329,55,4,99,39,93,sector_completed
+2025-07-23T14:36:53Z,E. Bastianini,Ducati Lenovo,23,1,31.016,31.016,310,53,3,79,7,80,sector_completed
+2025-07-23T14:37:22Z,E. Bastianini,Ducati Lenovo,23,2,61.136,30.12,299,62,5,89,8,93,sector_completed
+2025-07-23T14:37:52Z,E. Bastianini,Ducati Lenovo,23,3,91.287,30.151,301,65,6,92,41,80,sector_completed
+2025-07-23T14:38:30Z,E. Bastianini,Ducati Lenovo,24,1,29.501,29.501,308,54,3,80,28,94,sector_completed
+2025-07-23T14:38:59Z,E. Bastianini,Ducati Lenovo,24,2,58.662,29.161,312,50,5,74,12,87,sector_completed
+2025-07-23T14:39:36Z,E. Bastianini,Ducati Lenovo,24,3,90.553,31.891,322,65,5,91,31,88,sector_completed
+2025-07-23T14:40:08Z,E. Bastianini,Ducati Lenovo,25,1,31.52,31.52,321,55,2,88,1,82,sector_completed
+2025-07-23T14:40:36Z,E. Bastianini,Ducati Lenovo,25,2,61.396,29.876,307,57,6,79,10,89,sector_completed
+2025-07-23T14:41:09Z,E. Bastianini,Ducati Lenovo,25,3,92.093,30.697,339,65,6,86,7,93,sector_completed
+2025-07-23T14:02:01Z,B. Binder,Red Bull KTM,1,1,29.804,29.804,324,61,6,96,48,76,sector_completed
+2025-07-23T14:02:34Z,B. Binder,Red Bull KTM,1,2,61.084,31.28,318,56,5,73,47,95,sector_completed
+2025-07-23T14:03:05Z,B. Binder,Red Bull KTM,1,3,92.338,31.254,309,51,5,78,22,77,sector_completed
+2025-07-23T14:03:41Z,B. Binder,Red Bull KTM,2,1,31.596,31.596,297,57,3,95,47,93,sector_completed
+2025-07-23T14:04:12Z,B. Binder,Red Bull KTM,2,2,62.663,31.067,345,63,3,89,8,81,sector_completed
+2025-07-23T14:04:44Z,B. Binder,Red Bull KTM,2,3,94.104,31.441,341,51,6,81,34,83,sector_completed
+2025-07-23T14:05:16Z,B. Binder,Red Bull KTM,3,1,30.616,30.616,310,59,4,88,17,91,sector_completed
+2025-07-23T14:05:49Z,B. Binder,Red Bull KTM,3,2,62.572,31.956,333,53,3,100,48,88,sector_completed
+2025-07-23T14:06:21Z,B. Binder,Red Bull KTM,3,3,94.328,31.756,307,54,3,77,9,85,sector_completed
+2025-07-23T14:06:52Z,B. Binder,Red Bull KTM,4,1,29.743,29.743,343,62,5,74,36,95,sector_completed
+2025-07-23T14:07:22Z,B. Binder,Red Bull KTM,4,2,59.549,29.806,316,62,5,72,40,77,sector_completed
+2025-07-23T14:07:53Z,B. Binder,Red Bull KTM,4,3,89.758,30.209,337,58,4,84,31,85,sector_completed
+2025-07-23T14:08:25Z,B. Binder,Red Bull KTM,5,1,29.007,29.007,339,52,5,90,42,86,sector_completed
+2025-07-23T14:08:59Z,B. Binder,Red Bull KTM,5,2,60.557,31.55,340,62,3,100,27,81,sector_completed
+2025-07-23T14:09:27Z,B. Binder,Red Bull KTM,5,3,91.041,30.484,310,59,4,87,36,79,sector_completed
+2025-07-23T14:10:02Z,B. Binder,Red Bull KTM,6,1,31.557,31.557,340,60,2,71,6,95,sector_completed
+2025-07-23T14:10:33Z,B. Binder,Red Bull KTM,6,2,62.909,31.352,319,50,2,99,10,89,sector_completed
+2025-07-23T14:11:02Z,B. Binder,Red Bull KTM,6,3,93.279,30.37,317,56,3,98,41,84,sector_completed
+2025-07-23T14:11:34Z,B. Binder,Red Bull KTM,7,1,31.623,31.623,307,52,4,78,5,86,sector_completed
+2025-07-23T14:12:04Z,B. Binder,Red Bull KTM,7,2,62.617,30.994,331,55,2,82,40,84,sector_completed
+2025-07-23T14:12:36Z,B. Binder,Red Bull KTM,7,3,93.795,31.178,338,57,5,90,5,78,sector_completed
+2025-07-23T14:13:06Z,B. Binder,Red Bull KTM,8,1,29.64,29.64,294,54,6,77,33,89,sector_completed
+2025-07-23T14:13:35Z,B. Binder,Red Bull KTM,8,2,58.668,29.028,334,60,2,97,27,79,sector_completed
+2025-07-23T14:14:08Z,B. Binder,Red Bull KTM,8,3,89.101,30.433,304,62,2,93,6,78,sector_completed
+2025-07-23T14:14:44Z,B. Binder,Red Bull KTM,9,1,30.103,30.103,309,54,5,94,48,79,sector_completed
+2025-07-23T14:15:15Z,B. Binder,Red Bull KTM,9,2,61.028,30.925,333,54,2,86,36,75,sector_completed
+2025-07-23T14:15:46Z,B. Binder,Red Bull KTM,9,3,91.859,30.831,300,64,4,93,13,95,sector_completed
+2025-07-23T14:16:21Z,B. Binder,Red Bull KTM,10,1,29.454,29.454,316,64,3,72,6,79,sector_completed
+2025-07-23T14:16:54Z,B. Binder,Red Bull KTM,10,2,60.711,31.257,327,62,4,100,27,85,sector_completed
+2025-07-23T14:17:26Z,B. Binder,Red Bull KTM,10,3,92.084,31.373,305,58,2,77,35,94,sector_completed
+2025-07-23T14:17:57Z,B. Binder,Red Bull KTM,11,1,31.164,31.164,308,50,4,76,33,94,sector_completed
+2025-07-23T14:18:27Z,B. Binder,Red Bull KTM,11,2,61.693,30.529,337,62,4,90,3,82,sector_completed
+2025-07-23T14:18:57Z,B. Binder,Red Bull KTM,11,3,92.178,30.485,297,57,5,90,38,77,sector_completed
+2025-07-23T14:19:32Z,B. Binder,Red Bull KTM,12,1,31.666,31.666,290,61,4,74,24,93,sector_completed
+2025-07-23T14:20:01Z,B. Binder,Red Bull KTM,12,2,61.929,30.263,324,55,5,100,49,77,sector_completed
+2025-07-23T14:20:28Z,B. Binder,Red Bull KTM,12,3,90.979,29.05,294,50,4,76,2,76,sector_completed
+2025-07-23T14:21:08Z,B. Binder,Red Bull KTM,13,1,30.194,30.194,308,63,5,92,25,77,sector_completed
+2025-07-23T14:21:39Z,B. Binder,Red Bull KTM,13,2,61.116,30.922,324,54,4,72,19,77,sector_completed
+2025-07-23T14:22:09Z,B. Binder,Red Bull KTM,13,3,91.65,30.534,303,54,6,80,25,93,sector_completed
+2025-07-23T14:22:43Z,B. Binder,Red Bull KTM,14,1,31.29,31.29,331,52,4,92,27,82,sector_completed
+2025-07-23T14:23:10Z,B. Binder,Red Bull KTM,14,2,60.464,29.174,295,63,2,84,39,94,sector_completed
+2025-07-23T14:23:39Z,B. Binder,Red Bull KTM,14,3,89.629,29.165,332,55,2,70,45,79,sector_completed
+2025-07-23T14:24:16Z,B. Binder,Red Bull KTM,15,1,29.034,29.034,321,61,6,86,50,83,sector_completed
+2025-07-23T14:24:46Z,B. Binder,Red Bull KTM,15,2,58.535,29.501,298,58,2,94,1,85,sector_completed
+2025-07-23T14:25:21Z,B. Binder,Red Bull KTM,15,3,89.956,31.421,307,52,4,92,36,95,sector_completed
+2025-07-23T14:25:47Z,B. Binder,Red Bull KTM,16,1,30.488,30.488,322,61,2,85,36,80,sector_completed
+2025-07-23T14:26:17Z,B. Binder,Red Bull KTM,16,2,60.591,30.103,306,53,6,91,46,78,sector_completed
+2025-07-23T14:26:46Z,B. Binder,Red Bull KTM,16,3,90.276,29.685,322,50,2,97,0,82,sector_completed
+2025-07-23T14:27:22Z,B. Binder,Red Bull KTM,17,1,30.415,30.415,314,54,3,99,2,92,sector_completed
+2025-07-23T14:27:54Z,B. Binder,Red Bull KTM,17,2,61.824,31.409,335,63,3,80,15,88,sector_completed
+2025-07-23T14:28:27Z,B. Binder,Red Bull KTM,17,3,93.572,31.748,310,58,2,88,23,78,sector_completed
+2025-07-23T14:29:02Z,B. Binder,Red Bull KTM,18,1,31.02,31.02,293,55,3,95,33,76,sector_completed
+2025-07-23T14:29:34Z,B. Binder,Red Bull KTM,18,2,62.882,31.862,294,64,4,94,19,85,sector_completed
+2025-07-23T14:29:58Z,B. Binder,Red Bull KTM,18,3,92.141,29.259,319,50,4,76,18,93,sector_completed
+2025-07-23T14:30:37Z,B. Binder,Red Bull KTM,19,1,29.912,29.912,329,57,5,81,37,90,sector_completed
+2025-07-23T14:31:11Z,B. Binder,Red Bull KTM,19,2,61.905,31.993,339,56,6,94,50,82,sector_completed
+2025-07-23T14:31:36Z,B. Binder,Red Bull KTM,19,3,91.357,29.452,316,50,3,87,22,95,sector_completed
+2025-07-23T14:32:14Z,B. Binder,Red Bull KTM,20,1,31.08,31.08,290,60,2,94,42,87,sector_completed
+2025-07-23T14:32:46Z,B. Binder,Red Bull KTM,20,2,62.627,31.547,336,59,2,76,33,82,sector_completed
+2025-07-23T14:33:13Z,B. Binder,Red Bull KTM,20,3,92.886,30.259,293,54,4,72,2,82,sector_completed
+2025-07-23T14:33:48Z,B. Binder,Red Bull KTM,21,1,30.559,30.559,334,61,5,93,5,93,sector_completed
+2025-07-23T14:34:16Z,B. Binder,Red Bull KTM,21,2,59.846,29.287,298,62,2,88,36,76,sector_completed
+2025-07-23T14:34:48Z,B. Binder,Red Bull KTM,21,3,90.151,30.305,298,57,4,78,20,87,sector_completed
+2025-07-23T14:35:23Z,B. Binder,Red Bull KTM,22,1,31.496,31.496,310,60,5,78,14,77,sector_completed
+2025-07-23T14:35:55Z,B. Binder,Red Bull KTM,22,2,63.327,31.831,298,53,3,73,10,89,sector_completed
+2025-07-23T14:36:23Z,B. Binder,Red Bull KTM,22,3,93.725,30.398,316,53,6,81,49,81,sector_completed
+2025-07-23T14:36:54Z,B. Binder,Red Bull KTM,23,1,29.925,29.925,306,53,2,75,43,84,sector_completed
+2025-07-23T14:37:27Z,B. Binder,Red Bull KTM,23,2,61.404,31.479,334,51,3,96,20,79,sector_completed
+2025-07-23T14:37:52Z,B. Binder,Red Bull KTM,23,3,90.678,29.274,305,61,5,86,3,84,sector_completed
+2025-07-23T14:38:30Z,B. Binder,Red Bull KTM,24,1,31.46,31.46,301,50,5,97,28,92,sector_completed
+2025-07-23T14:39:01Z,B. Binder,Red Bull KTM,24,2,62.704,31.244,305,53,5,73,50,79,sector_completed
+2025-07-23T14:39:27Z,B. Binder,Red Bull KTM,24,3,92.068,29.364,293,57,3,76,25,86,sector_completed
+2025-07-23T14:40:07Z,B. Binder,Red Bull KTM,25,1,30.891,30.891,331,52,6,88,16,77,sector_completed
+2025-07-23T14:40:35Z,B. Binder,Red Bull KTM,25,2,59.956,29.065,294,56,5,95,8,77,sector_completed
+2025-07-23T14:41:12Z,B. Binder,Red Bull KTM,25,3,91.671,31.715,343,60,2,71,29,76,sector_completed
+2025-07-23T14:02:04Z,J. Zarco,LCR Honda,1,1,31.772,31.772,317,62,5,70,24,88,sector_completed
+2025-07-23T14:02:32Z,J. Zarco,LCR Honda,1,2,61.29,29.518,303,55,4,78,28,79,sector_completed
+2025-07-23T14:03:00Z,J. Zarco,LCR Honda,1,3,90.394,29.104,329,57,4,85,26,92,sector_completed
+2025-07-23T14:03:39Z,J. Zarco,LCR Honda,2,1,29.183,29.183,307,62,3,83,12,95,sector_completed
+2025-07-23T14:04:13Z,J. Zarco,LCR Honda,2,2,60.837,31.654,323,57,6,95,1,87,sector_completed
+2025-07-23T14:04:44Z,J. Zarco,LCR Honda,2,3,92.183,31.346,312,65,6,95,31,86,sector_completed
+2025-07-23T14:05:16Z,J. Zarco,LCR Honda,3,1,30.507,30.507,314,58,3,70,20,94,sector_completed
+2025-07-23T14:05:45Z,J. Zarco,LCR Honda,3,2,60.164,29.657,341,58,2,95,30,91,sector_completed
+2025-07-23T14:06:16Z,J. Zarco,LCR Honda,3,3,90.236,30.072,327,57,3,73,15,82,sector_completed
+2025-07-23T14:06:49Z,J. Zarco,LCR Honda,4,1,30.601,30.601,340,51,3,88,24,86,sector_completed
+2025-07-23T14:07:22Z,J. Zarco,LCR Honda,4,2,62.407,31.806,344,55,3,77,37,85,sector_completed
+2025-07-23T14:07:53Z,J. Zarco,LCR Honda,4,3,93.826,31.419,334,61,6,70,45,86,sector_completed
+2025-07-23T14:08:26Z,J. Zarco,LCR Honda,5,1,30.691,30.691,326,56,5,87,19,80,sector_completed
+2025-07-23T14:08:56Z,J. Zarco,LCR Honda,5,2,61.162,30.471,295,51,3,89,14,75,sector_completed
+2025-07-23T14:09:27Z,J. Zarco,LCR Honda,5,3,91.741,30.579,290,60,6,76,8,85,sector_completed
+2025-07-23T14:10:01Z,J. Zarco,LCR Honda,6,1,29.532,29.532,341,60,2,70,9,93,sector_completed
+2025-07-23T14:10:34Z,J. Zarco,LCR Honda,6,2,60.646,31.114,299,53,6,97,23,77,sector_completed
+2025-07-23T14:11:02Z,J. Zarco,LCR Honda,6,3,90.767,30.121,332,62,6,73,21,84,sector_completed
+2025-07-23T14:11:33Z,J. Zarco,LCR Honda,7,1,29.409,29.409,300,63,5,90,20,80,sector_completed
+2025-07-23T14:12:06Z,J. Zarco,LCR Honda,7,2,60.531,31.122,325,61,3,91,37,80,sector_completed
+2025-07-23T14:12:34Z,J. Zarco,LCR Honda,7,3,90.666,30.135,336,59,3,75,46,75,sector_completed
+2025-07-23T14:13:13Z,J. Zarco,LCR Honda,8,1,31.846,31.846,315,51,3,89,20,94,sector_completed
+2025-07-23T14:13:41Z,J. Zarco,LCR Honda,8,2,61.509,29.663,326,53,5,74,21,77,sector_completed
+2025-07-23T14:14:11Z,J. Zarco,LCR Honda,8,3,91.223,29.714,310,55,2,96,45,95,sector_completed
+2025-07-23T14:14:48Z,J. Zarco,LCR Honda,9,1,31.66,31.66,318,50,4,76,15,77,sector_completed
+2025-07-23T14:15:17Z,J. Zarco,LCR Honda,9,2,61.711,30.051,340,53,2,71,24,89,sector_completed
+2025-07-23T14:15:50Z,J. Zarco,LCR Honda,9,3,92.909,31.198,300,63,5,98,24,86,sector_completed
+2025-07-23T14:16:21Z,J. Zarco,LCR Honda,10,1,30.126,30.126,343,65,6,90,48,82,sector_completed
+2025-07-23T14:16:49Z,J. Zarco,LCR Honda,10,2,59.614,29.488,294,51,4,70,20,83,sector_completed
+2025-07-23T14:17:26Z,J. Zarco,LCR Honda,10,3,91.469,31.855,294,60,3,98,24,80,sector_completed
+2025-07-23T14:17:56Z,J. Zarco,LCR Honda,11,1,29.225,29.225,295,60,6,89,30,75,sector_completed
+2025-07-23T14:18:27Z,J. Zarco,LCR Honda,11,2,59.519,30.294,331,55,6,98,27,80,sector_completed
+2025-07-23T14:18:54Z,J. Zarco,LCR Honda,11,3,88.68,29.161,311,56,3,83,44,92,sector_completed
+2025-07-23T14:19:33Z,J. Zarco,LCR Honda,12,1,31.777,31.777,324,58,4,79,15,78,sector_completed
+2025-07-23T14:20:00Z,J. Zarco,LCR Honda,12,2,60.926,29.149,326,65,3,71,23,75,sector_completed
+2025-07-23T14:20:32Z,J. Zarco,LCR Honda,12,3,91.209,30.283,308,65,3,73,1,81,sector_completed
+2025-07-23T14:21:03Z,J. Zarco,LCR Honda,13,1,30.915,30.915,295,65,2,79,50,87,sector_completed
+2025-07-23T14:21:33Z,J. Zarco,LCR Honda,13,2,61.328,30.413,332,58,2,90,34,87,sector_completed
+2025-07-23T14:22:01Z,J. Zarco,LCR Honda,13,3,90.883,29.555,314,61,3,84,2,83,sector_completed
+2025-07-23T14:22:40Z,J. Zarco,LCR Honda,14,1,30.395,30.395,304,58,6,71,9,78,sector_completed
+2025-07-23T14:23:08Z,J. Zarco,LCR Honda,14,2,59.652,29.257,312,63,6,77,35,76,sector_completed
+2025-07-23T14:23:44Z,J. Zarco,LCR Honda,14,3,91.174,31.522,342,63,6,91,30,93,sector_completed
+2025-07-23T14:24:13Z,J. Zarco,LCR Honda,15,1,30.429,30.429,295,62,2,86,36,91,sector_completed
+2025-07-23T14:24:45Z,J. Zarco,LCR Honda,15,2,61.83,31.401,333,54,2,100,48,89,sector_completed
+2025-07-23T14:25:11Z,J. Zarco,LCR Honda,15,3,91.349,29.519,300,56,3,74,2,88,sector_completed
+2025-07-23T14:25:48Z,J. Zarco,LCR Honda,16,1,31.965,31.965,317,56,3,96,38,83,sector_completed
+2025-07-23T14:26:16Z,J. Zarco,LCR Honda,16,2,61.924,29.959,336,52,2,82,35,87,sector_completed
+2025-07-23T14:26:48Z,J. Zarco,LCR Honda,16,3,92.58,30.656,344,58,6,84,0,94,sector_completed
+2025-07-23T14:27:26Z,J. Zarco,LCR Honda,17,1,30.568,30.568,316,53,5,74,9,93,sector_completed
+2025-07-23T14:27:57Z,J. Zarco,LCR Honda,17,2,61.332,30.764,338,53,2,88,49,78,sector_completed
+2025-07-23T14:28:30Z,J. Zarco,LCR Honda,17,3,92.689,31.357,345,61,5,78,24,95,sector_completed
+2025-07-23T14:29:00Z,J. Zarco,LCR Honda,18,1,30.716,30.716,320,51,3,78,25,79,sector_completed
+2025-07-23T14:29:31Z,J. Zarco,LCR Honda,18,2,61.571,30.855,333,62,2,82,21,82,sector_completed
+2025-07-23T14:29:57Z,J. Zarco,LCR Honda,18,3,90.719,29.148,320,58,4,70,21,84,sector_completed
+2025-07-23T14:30:33Z,J. Zarco,LCR Honda,19,1,29.841,29.841,321,53,3,74,19,89,sector_completed
+2025-07-23T14:31:06Z,J. Zarco,LCR Honda,19,2,61.163,31.322,310,58,5,89,41,77,sector_completed
+2025-07-23T14:31:32Z,J. Zarco,LCR Honda,19,3,90.727,29.564,303,63,5,94,33,86,sector_completed
+2025-07-23T14:32:12Z,J. Zarco,LCR Honda,20,1,29.169,29.169,340,55,2,79,45,91,sector_completed
+2025-07-23T14:32:43Z,J. Zarco,LCR Honda,20,2,59.379,30.21,339,50,3,76,12,76,sector_completed
+2025-07-23T14:33:12Z,J. Zarco,LCR Honda,20,3,89.127,29.748,319,51,4,92,12,83,sector_completed
+2025-07-23T14:33:45Z,J. Zarco,LCR Honda,21,1,31.471,31.471,322,62,2,91,1,82,sector_completed
+2025-07-23T14:34:14Z,J. Zarco,LCR Honda,21,2,61.588,30.117,328,64,3,100,30,93,sector_completed
+2025-07-23T14:34:45Z,J. Zarco,LCR Honda,21,3,92.242,30.654,312,55,4,93,44,77,sector_completed
+2025-07-23T14:35:18Z,J. Zarco,LCR Honda,22,1,29.082,29.082,293,55,6,94,13,82,sector_completed
+2025-07-23T14:35:50Z,J. Zarco,LCR Honda,22,2,60.024,30.942,333,56,4,90,26,91,sector_completed
+2025-07-23T14:36:16Z,J. Zarco,LCR Honda,22,3,89.084,29.06,339,50,5,99,8,95,sector_completed
+2025-07-23T14:36:53Z,J. Zarco,LCR Honda,23,1,30.803,30.803,290,57,4,89,19,95,sector_completed
+2025-07-23T14:37:22Z,J. Zarco,LCR Honda,23,2,60.629,29.826,314,61,5,78,13,89,sector_completed
+2025-07-23T14:37:52Z,J. Zarco,LCR Honda,23,3,90.535,29.906,323,62,6,73,0,91,sector_completed
+2025-07-23T14:38:33Z,J. Zarco,LCR Honda,24,1,31.899,31.899,343,61,6,90,38,94,sector_completed
+2025-07-23T14:39:01Z,J. Zarco,LCR Honda,24,2,61.747,29.848,333,53,5,72,21,83,sector_completed
+2025-07-23T14:39:34Z,J. Zarco,LCR Honda,24,3,92.669,30.922,345,58,4,90,45,95,sector_completed
+2025-07-23T14:40:03Z,J. Zarco,LCR Honda,25,1,29.565,29.565,323,57,2,95,38,87,sector_completed
+2025-07-23T14:40:35Z,J. Zarco,LCR Honda,25,2,60.547,30.982,333,54,2,90,31,84,sector_completed
+2025-07-23T14:41:03Z,J. Zarco,LCR Honda,25,3,90.325,29.778,316,62,5,93,2,93,sector_completed
+2025-07-23T14:02:08Z,M. Bezzecchi,VR46 Ducati,1,1,31.984,31.984,342,56,4,93,45,82,sector_completed
+2025-07-23T14:02:39Z,M. Bezzecchi,VR46 Ducati,1,2,63.043,31.059,330,65,4,86,19,80,sector_completed
+2025-07-23T14:03:11Z,M. Bezzecchi,VR46 Ducati,1,3,94.565,31.522,325,55,4,73,30,79,sector_completed
+2025-07-23T14:03:41Z,M. Bezzecchi,VR46 Ducati,2,1,29.776,29.776,341,55,4,90,5,82,sector_completed
+2025-07-23T14:04:12Z,M. Bezzecchi,VR46 Ducati,2,2,59.842,30.066,337,59,5,95,21,86,sector_completed
+2025-07-23T14:04:41Z,M. Bezzecchi,VR46 Ducati,2,3,89.624,29.782,308,64,2,85,3,95,sector_completed
+2025-07-23T14:05:16Z,M. Bezzecchi,VR46 Ducati,3,1,30.741,30.741,329,52,5,98,12,91,sector_completed
+2025-07-23T14:05:44Z,M. Bezzecchi,VR46 Ducati,3,2,60.1,29.359,333,62,6,79,26,76,sector_completed
+2025-07-23T14:06:20Z,M. Bezzecchi,VR46 Ducati,3,3,91.713,31.613,299,54,3,80,26,93,sector_completed
+2025-07-23T14:06:49Z,M. Bezzecchi,VR46 Ducati,4,1,29.43,29.43,345,55,2,85,21,95,sector_completed
+2025-07-23T14:07:23Z,M. Bezzecchi,VR46 Ducati,4,2,61.39,31.96,310,51,2,84,17,81,sector_completed
+2025-07-23T14:07:53Z,M. Bezzecchi,VR46 Ducati,4,3,92.674,31.284,300,55,5,95,48,77,sector_completed
+2025-07-23T14:08:23Z,M. Bezzecchi,VR46 Ducati,5,1,30.843,30.843,330,63,5,83,30,87,sector_completed
+2025-07-23T14:08:51Z,M. Bezzecchi,VR46 Ducati,5,2,59.857,29.014,324,56,4,100,0,85,sector_completed
+2025-07-23T14:09:26Z,M. Bezzecchi,VR46 Ducati,5,3,91.128,31.271,323,56,2,91,0,95,sector_completed
+2025-07-23T14:10:01Z,M. Bezzecchi,VR46 Ducati,6,1,29.746,29.746,334,61,4,74,6,87,sector_completed
+2025-07-23T14:10:33Z,M. Bezzecchi,VR46 Ducati,6,2,60.256,30.51,309,55,2,96,2,84,sector_completed
+2025-07-23T14:11:07Z,M. Bezzecchi,VR46 Ducati,6,3,92.101,31.845,319,60,5,98,43,79,sector_completed
+2025-07-23T14:11:35Z,M. Bezzecchi,VR46 Ducati,7,1,31.988,31.988,321,61,3,75,25,75,sector_completed
+2025-07-23T14:12:03Z,M. Bezzecchi,VR46 Ducati,7,2,61.673,29.685,336,54,3,93,1,93,sector_completed
+2025-07-23T14:12:35Z,M. Bezzecchi,VR46 Ducati,7,3,92.187,30.514,297,61,2,82,40,83,sector_completed
+2025-07-23T14:13:13Z,M. Bezzecchi,VR46 Ducati,8,1,30.604,30.604,293,51,2,90,1,76,sector_completed
+2025-07-23T14:13:45Z,M. Bezzecchi,VR46 Ducati,8,2,61.673,31.069,316,64,5,73,35,83,sector_completed
+2025-07-23T14:14:14Z,M. Bezzecchi,VR46 Ducati,8,3,92.096,30.423,299,56,2,79,26,78,sector_completed
+2025-07-23T14:14:47Z,M. Bezzecchi,VR46 Ducati,9,1,30.561,30.561,329,54,5,96,6,91,sector_completed
+2025-07-23T14:15:19Z,M. Bezzecchi,VR46 Ducati,9,2,61.717,31.156,297,59,2,95,6,90,sector_completed
+2025-07-23T14:15:45Z,M. Bezzecchi,VR46 Ducati,9,3,91.313,29.596,302,58,6,76,22,88,sector_completed
+2025-07-23T14:16:18Z,M. Bezzecchi,VR46 Ducati,10,1,29.481,29.481,325,65,3,92,30,85,sector_completed
+2025-07-23T14:16:48Z,M. Bezzecchi,VR46 Ducati,10,2,59.185,29.704,290,52,2,96,36,90,sector_completed
+2025-07-23T14:17:17Z,M. Bezzecchi,VR46 Ducati,10,3,88.632,29.447,295,52,2,98,16,95,sector_completed
+2025-07-23T14:17:53Z,M. Bezzecchi,VR46 Ducati,11,1,30.37,30.37,308,58,5,71,6,80,sector_completed
+2025-07-23T14:18:26Z,M. Bezzecchi,VR46 Ducati,11,2,61.992,31.622,344,59,4,95,43,85,sector_completed
+2025-07-23T14:18:53Z,M. Bezzecchi,VR46 Ducati,11,3,92.27,30.278,297,53,2,70,8,95,sector_completed
+2025-07-23T14:19:27Z,M. Bezzecchi,VR46 Ducati,12,1,29.986,29.986,318,58,2,81,21,80,sector_completed
+2025-07-23T14:19:56Z,M. Bezzecchi,VR46 Ducati,12,2,59.327,29.341,315,64,4,96,24,90,sector_completed
+2025-07-23T14:20:32Z,M. Bezzecchi,VR46 Ducati,12,3,90.727,31.4,331,55,2,74,44,76,sector_completed
+2025-07-23T14:21:07Z,M. Bezzecchi,VR46 Ducati,13,1,29.478,29.478,316,65,6,91,28,80,sector_completed
+2025-07-23T14:21:39Z,M. Bezzecchi,VR46 Ducati,13,2,60.312,30.834,339,61,6,70,43,79,sector_completed
+2025-07-23T14:22:09Z,M. Bezzecchi,VR46 Ducati,13,3,90.761,30.449,321,53,5,84,2,77,sector_completed
+2025-07-23T14:22:39Z,M. Bezzecchi,VR46 Ducati,14,1,30.965,30.965,290,57,4,86,33,94,sector_completed
+2025-07-23T14:23:07Z,M. Bezzecchi,VR46 Ducati,14,2,60.251,29.286,332,57,5,81,42,95,sector_completed
+2025-07-23T14:23:39Z,M. Bezzecchi,VR46 Ducati,14,3,90.406,30.155,343,51,2,90,10,91,sector_completed
+2025-07-23T14:24:18Z,M. Bezzecchi,VR46 Ducati,15,1,30.408,30.408,321,55,2,94,31,85,sector_completed
+2025-07-23T14:24:47Z,M. Bezzecchi,VR46 Ducati,15,2,60.131,29.723,307,51,6,77,35,95,sector_completed
+2025-07-23T14:25:18Z,M. Bezzecchi,VR46 Ducati,15,3,90.267,30.136,342,57,2,84,28,93,sector_completed
+2025-07-23T14:25:49Z,M. Bezzecchi,VR46 Ducati,16,1,29.264,29.264,321,64,4,73,31,95,sector_completed
+2025-07-23T14:26:18Z,M. Bezzecchi,VR46 Ducati,16,2,58.317,29.053,315,63,2,87,35,75,sector_completed
+2025-07-23T14:26:54Z,M. Bezzecchi,VR46 Ducati,16,3,89.795,31.478,340,59,6,87,13,95,sector_completed
+2025-07-23T14:27:27Z,M. Bezzecchi,VR46 Ducati,17,1,30.369,30.369,311,61,2,96,14,89,sector_completed
+2025-07-23T14:27:56Z,M. Bezzecchi,VR46 Ducati,17,2,60.365,29.996,339,65,4,92,28,78,sector_completed
+2025-07-23T14:28:24Z,M. Bezzecchi,VR46 Ducati,17,3,89.657,29.292,332,57,2,80,22,95,sector_completed
+2025-07-23T14:29:02Z,M. Bezzecchi,VR46 Ducati,18,1,29.876,29.876,323,61,2,71,10,90,sector_completed
+2025-07-23T14:29:31Z,M. Bezzecchi,VR46 Ducati,18,2,59.297,29.421,335,63,2,78,39,81,sector_completed
+2025-07-23T14:30:01Z,M. Bezzecchi,VR46 Ducati,18,3,88.86,29.563,344,62,3,84,50,81,sector_completed
+2025-07-23T14:30:37Z,M. Bezzecchi,VR46 Ducati,19,1,30.014,30.014,338,63,2,99,40,93,sector_completed
+2025-07-23T14:31:05Z,M. Bezzecchi,VR46 Ducati,19,2,59.384,29.37,318,64,6,100,32,79,sector_completed
+2025-07-23T14:31:42Z,M. Bezzecchi,VR46 Ducati,19,3,91.276,31.892,290,51,6,99,27,93,sector_completed
+2025-07-23T14:32:11Z,M. Bezzecchi,VR46 Ducati,20,1,31.773,31.773,339,55,6,75,46,79,sector_completed
+2025-07-23T14:32:38Z,M. Bezzecchi,VR46 Ducati,20,2,61.084,29.311,332,60,6,98,24,88,sector_completed
+2025-07-23T14:33:15Z,M. Bezzecchi,VR46 Ducati,20,3,93.023,31.939,334,57,4,82,21,84,sector_completed
+2025-07-23T14:33:46Z,M. Bezzecchi,VR46 Ducati,21,1,31.414,31.414,298,63,6,92,47,91,sector_completed
+2025-07-23T14:34:14Z,M. Bezzecchi,VR46 Ducati,21,2,61.311,29.897,334,60,6,90,13,81,sector_completed
+2025-07-23T14:34:43Z,M. Bezzecchi,VR46 Ducati,21,3,90.94,29.629,335,59,4,99,43,79,sector_completed
+2025-07-23T14:35:22Z,M. Bezzecchi,VR46 Ducati,22,1,30.95,30.95,301,60,2,94,22,92,sector_completed
+2025-07-23T14:35:52Z,M. Bezzecchi,VR46 Ducati,22,2,61.391,30.441,326,63,6,79,27,75,sector_completed
+2025-07-23T14:36:23Z,M. Bezzecchi,VR46 Ducati,22,3,91.959,30.568,291,62,3,71,42,76,sector_completed
+2025-07-23T14:36:52Z,M. Bezzecchi,VR46 Ducati,23,1,29.801,29.801,340,55,4,91,16,79,sector_completed
+2025-07-23T14:37:26Z,M. Bezzecchi,VR46 Ducati,23,2,61.319,31.518,334,59,3,94,34,76,sector_completed
+2025-07-23T14:37:53Z,M. Bezzecchi,VR46 Ducati,23,3,91.395,30.076,318,53,6,97,43,92,sector_completed
+2025-07-23T14:38:32Z,M. Bezzecchi,VR46 Ducati,24,1,29.673,29.673,331,62,3,86,50,84,sector_completed
+2025-07-23T14:39:05Z,M. Bezzecchi,VR46 Ducati,24,2,60.752,31.079,293,62,5,83,50,85,sector_completed
+2025-07-23T14:39:38Z,M. Bezzecchi,VR46 Ducati,24,3,92.649,31.897,293,50,4,76,39,89,sector_completed
+2025-07-23T14:40:07Z,M. Bezzecchi,VR46 Ducati,25,1,29.677,29.677,330,61,6,87,47,94,sector_completed
+2025-07-23T14:40:37Z,M. Bezzecchi,VR46 Ducati,25,2,59.266,29.589,336,56,4,84,11,77,sector_completed
+2025-07-23T14:41:06Z,M. Bezzecchi,VR46 Ducati,25,3,88.827,29.561,301,53,5,71,27,83,sector_completed
+2025-07-23T14:02:05Z,A. Rins,Yamaha Factory,1,1,29.793,29.793,300,58,2,80,29,79,sector_completed
+2025-07-23T14:02:34Z,A. Rins,Yamaha Factory,1,2,58.913,29.12,310,51,6,96,42,84,sector_completed
+2025-07-23T14:03:07Z,A. Rins,Yamaha Factory,1,3,89.385,30.472,326,61,2,95,45,85,sector_completed
+2025-07-23T14:03:40Z,A. Rins,Yamaha Factory,2,1,29.66,29.66,301,52,6,75,26,92,sector_completed
+2025-07-23T14:04:12Z,A. Rins,Yamaha Factory,2,2,60.271,30.611,295,61,3,98,13,85,sector_completed
+2025-07-23T14:04:40Z,A. Rins,Yamaha Factory,2,3,90.264,29.993,308,56,6,86,30,92,sector_completed
+2025-07-23T14:05:19Z,A. Rins,Yamaha Factory,3,1,31.256,31.256,331,50,2,91,22,89,sector_completed
+2025-07-23T14:05:47Z,A. Rins,Yamaha Factory,3,2,60.977,29.721,331,57,2,91,20,87,sector_completed
+2025-07-23T14:06:23Z,A. Rins,Yamaha Factory,3,3,92.725,31.748,297,62,4,87,46,84,sector_completed
+2025-07-23T14:06:48Z,A. Rins,Yamaha Factory,4,1,31.734,31.734,342,61,6,95,32,89,sector_completed
+2025-07-23T14:07:17Z,A. Rins,Yamaha Factory,4,2,62.194,30.46,308,56,4,86,5,78,sector_completed
+2025-07-23T14:07:45Z,A. Rins,Yamaha Factory,4,3,91.696,29.502,339,50,2,76,42,95,sector_completed
+2025-07-23T14:08:27Z,A. Rins,Yamaha Factory,5,1,29.64,29.64,333,63,2,76,34,88,sector_completed
+2025-07-23T14:08:59Z,A. Rins,Yamaha Factory,5,2,60.58,30.94,294,54,2,84,45,85,sector_completed
+2025-07-23T14:09:25Z,A. Rins,Yamaha Factory,5,3,89.694,29.114,294,51,3,95,16,92,sector_completed
+2025-07-23T14:09:57Z,A. Rins,Yamaha Factory,6,1,30.725,30.725,304,58,5,82,28,95,sector_completed
+2025-07-23T14:10:27Z,A. Rins,Yamaha Factory,6,2,60.938,30.213,310,50,5,91,7,92,sector_completed
+2025-07-23T14:10:54Z,A. Rins,Yamaha Factory,6,3,89.956,29.018,336,52,6,71,44,77,sector_completed
+2025-07-23T14:11:35Z,A. Rins,Yamaha Factory,7,1,31.784,31.784,296,59,4,89,5,84,sector_completed
+2025-07-23T14:12:06Z,A. Rins,Yamaha Factory,7,2,63.08,31.296,318,62,5,96,42,75,sector_completed
+2025-07-23T14:12:35Z,A. Rins,Yamaha Factory,7,3,93.502,30.422,324,57,3,93,25,92,sector_completed
+2025-07-23T14:13:10Z,A. Rins,Yamaha Factory,8,1,31.88,31.88,299,59,4,100,0,92,sector_completed
+2025-07-23T14:13:42Z,A. Rins,Yamaha Factory,8,2,63.504,31.624,299,53,2,70,36,94,sector_completed
+2025-07-23T14:14:09Z,A. Rins,Yamaha Factory,8,3,93.686,30.182,325,52,4,76,47,86,sector_completed
+2025-07-23T14:14:43Z,A. Rins,Yamaha Factory,9,1,30.238,30.238,331,54,3,75,14,94,sector_completed
+2025-07-23T14:15:16Z,A. Rins,Yamaha Factory,9,2,61.742,31.504,302,53,3,91,36,76,sector_completed
+2025-07-23T14:15:47Z,A. Rins,Yamaha Factory,9,3,93.296,31.554,325,64,6,72,18,77,sector_completed
+2025-07-23T14:16:18Z,A. Rins,Yamaha Factory,10,1,29.295,29.295,336,65,4,81,8,95,sector_completed
+2025-07-23T14:16:48Z,A. Rins,Yamaha Factory,10,2,58.999,29.704,308,52,3,80,31,89,sector_completed
+2025-07-23T14:17:18Z,A. Rins,Yamaha Factory,10,3,88.984,29.985,332,59,6,74,36,93,sector_completed
+2025-07-23T14:17:55Z,A. Rins,Yamaha Factory,11,1,31.423,31.423,317,55,2,80,15,82,sector_completed
+2025-07-23T14:18:26Z,A. Rins,Yamaha Factory,11,2,62.56,31.137,331,63,4,96,23,79,sector_completed
+2025-07-23T14:18:57Z,A. Rins,Yamaha Factory,11,3,93.599,31.039,311,65,5,84,22,84,sector_completed
+2025-07-23T14:19:30Z,A. Rins,Yamaha Factory,12,1,30.655,30.655,301,52,4,97,8,92,sector_completed
+2025-07-23T14:19:59Z,A. Rins,Yamaha Factory,12,2,60.244,29.589,336,52,2,98,1,91,sector_completed
+2025-07-23T14:20:32Z,A. Rins,Yamaha Factory,12,3,91.139,30.895,342,62,6,76,2,92,sector_completed
+2025-07-23T14:21:04Z,A. Rins,Yamaha Factory,13,1,30.63,30.63,324,65,3,81,25,82,sector_completed
+2025-07-23T14:21:37Z,A. Rins,Yamaha Factory,13,2,62.304,31.674,327,59,3,84,32,91,sector_completed
+2025-07-23T14:22:01Z,A. Rins,Yamaha Factory,13,3,91.576,29.272,313,50,3,97,39,80,sector_completed
+2025-07-23T14:22:43Z,A. Rins,Yamaha Factory,14,1,30.542,30.542,318,55,3,88,36,79,sector_completed
+2025-07-23T14:23:15Z,A. Rins,Yamaha Factory,14,2,61.75,31.208,320,61,2,77,48,90,sector_completed
+2025-07-23T14:23:42Z,A. Rins,Yamaha Factory,14,3,91.445,29.695,306,61,3,71,42,81,sector_completed
+2025-07-23T14:24:17Z,A. Rins,Yamaha Factory,15,1,31.723,31.723,313,62,5,99,29,76,sector_completed
+2025-07-23T14:24:44Z,A. Rins,Yamaha Factory,15,2,60.843,29.12,331,60,2,92,33,95,sector_completed
+2025-07-23T14:25:20Z,A. Rins,Yamaha Factory,15,3,92.332,31.489,343,58,6,87,36,80,sector_completed
+2025-07-23T14:25:50Z,A. Rins,Yamaha Factory,16,1,30.961,30.961,313,52,6,78,24,82,sector_completed
+2025-07-23T14:26:21Z,A. Rins,Yamaha Factory,16,2,61.51,30.549,312,61,5,95,30,94,sector_completed
+2025-07-23T14:26:47Z,A. Rins,Yamaha Factory,16,3,90.53,29.02,298,64,3,77,4,91,sector_completed
+2025-07-23T14:27:26Z,A. Rins,Yamaha Factory,17,1,29.842,29.842,299,55,3,81,38,78,sector_completed
+2025-07-23T14:27:58Z,A. Rins,Yamaha Factory,17,2,60.825,30.983,316,60,2,85,43,90,sector_completed
+2025-07-23T14:28:28Z,A. Rins,Yamaha Factory,17,3,91.262,30.437,327,55,5,70,15,76,sector_completed
+2025-07-23T14:28:58Z,A. Rins,Yamaha Factory,18,1,30.72,30.72,300,54,6,71,36,79,sector_completed
+2025-07-23T14:29:26Z,A. Rins,Yamaha Factory,18,2,59.888,29.168,306,55,6,100,25,94,sector_completed
+2025-07-23T14:30:03Z,A. Rins,Yamaha Factory,18,3,91.796,31.908,330,50,4,100,5,81,sector_completed
+2025-07-23T14:30:35Z,A. Rins,Yamaha Factory,19,1,30.82,30.82,320,65,3,77,26,94,sector_completed
+2025-07-23T14:31:03Z,A. Rins,Yamaha Factory,19,2,60.248,29.428,327,55,6,91,32,83,sector_completed
+2025-07-23T14:31:33Z,A. Rins,Yamaha Factory,19,3,89.751,29.503,333,60,5,89,37,77,sector_completed
+2025-07-23T14:32:08Z,A. Rins,Yamaha Factory,20,1,30.135,30.135,298,53,2,76,33,91,sector_completed
+2025-07-23T14:32:40Z,A. Rins,Yamaha Factory,20,2,61.188,31.053,342,54,6,73,11,90,sector_completed
+2025-07-23T14:33:13Z,A. Rins,Yamaha Factory,20,3,92.893,31.705,328,51,6,86,48,78,sector_completed
+2025-07-23T14:33:42Z,A. Rins,Yamaha Factory,21,1,30.447,30.447,298,50,5,86,26,86,sector_completed
+2025-07-23T14:34:15Z,A. Rins,Yamaha Factory,21,2,62.071,31.624,334,63,3,100,30,87,sector_completed
+2025-07-23T14:34:42Z,A. Rins,Yamaha Factory,21,3,92.123,30.052,341,53,5,74,16,90,sector_completed
+2025-07-23T14:35:22Z,A. Rins,Yamaha Factory,22,1,29.698,29.698,344,52,4,89,34,88,sector_completed
+2025-07-23T14:35:52Z,A. Rins,Yamaha Factory,22,2,59.471,29.773,290,50,6,86,7,91,sector_completed
+2025-07-23T14:36:20Z,A. Rins,Yamaha Factory,22,3,88.493,29.022,331,56,4,83,23,78,sector_completed
+2025-07-23T14:36:53Z,A. Rins,Yamaha Factory,23,1,30.278,30.278,327,58,4,97,34,88,sector_completed
+2025-07-23T14:37:24Z,A. Rins,Yamaha Factory,23,2,60.972,30.694,329,58,5,94,13,88,sector_completed
+2025-07-23T14:37:54Z,A. Rins,Yamaha Factory,23,3,91.628,30.656,325,65,3,81,35,92,sector_completed
+2025-07-23T14:38:29Z,A. Rins,Yamaha Factory,24,1,29.761,29.761,309,61,5,93,8,78,sector_completed
+2025-07-23T14:39:02Z,A. Rins,Yamaha Factory,24,2,61.004,31.243,318,55,2,76,32,87,sector_completed
+2025-07-23T14:39:34Z,A. Rins,Yamaha Factory,24,3,92.362,31.358,341,51,3,82,40,75,sector_completed
+2025-07-23T14:40:07Z,A. Rins,Yamaha Factory,25,1,29.273,29.273,299,65,6,83,5,77,sector_completed
+2025-07-23T14:40:37Z,A. Rins,Yamaha Factory,25,2,59.062,29.789,313,52,6,71,46,87,sector_completed
+2025-07-23T14:41:13Z,A. Rins,Yamaha Factory,25,3,90.854,31.792,315,59,6,71,49,80,sector_completed
