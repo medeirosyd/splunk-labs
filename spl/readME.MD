@@ -2,7 +2,7 @@
 
 This repository contains files for learning and experimenting with Splunk.
 
-## Contenct
+## Content
 
 SPL Language
 
