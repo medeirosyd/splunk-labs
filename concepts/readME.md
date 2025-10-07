@@ -1,9 +1,11 @@
-Splunk Labs
+# Splunk Labs
+
 This repository contains files for learning and experimenting with Splunk.
 
-Folders
-lookups/ — Lookup files.
-concepts/ — Splunk knowledge.
-SPL/ — SPL language.
-Note
+## Concept
+
+Outlines the fundamental principles, functionality, purposestructure, or solutions in Splunk. It serves as the foundation for further development, analysis, and implementation.
+
+## Note
+
 Educational purpose.
