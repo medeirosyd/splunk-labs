@@ -4,9 +4,8 @@ This repository contains files for learning and experimenting with Splunk.
 
 ## Folders
 
-
-- `lookups/` — Lookup files.
 - `concepts/` — Splunk knowledge.
+- `lookups/` — Lookup files.
 - `SPL/` — SPL language.
 
 ## Note
