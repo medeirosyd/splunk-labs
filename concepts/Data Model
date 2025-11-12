@@ -1,2 +1,5 @@
-A data model is a hierarchically structured search-time mapping of semantic knowledge about one or more datasets. 
-It encodes domain knowledge necessary to build specialized searches of those datasets, and is used by Splunk software to generate reports for Pivot users. Data models drive the Pivot tool and enable users to create compelling reports and dashboards without designing searches.
+**Data Model
+A **data model** is a hierarchically structured search-time mapping of semantic knowledge about one or more datasets. 
+It encodes domain knowledge necessary to build specialized searches of those datasets, and is used by Splunk software
+to generate reports for Pivot users. Data models drive the Pivot tool and enable users to create compelling reports 
+and dashboards without designing searches.
