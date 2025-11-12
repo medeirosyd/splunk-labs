@@ -1,2 +1,2 @@
-**SIEM
+# SIEM
 SIEM (Security Information and Event Management) is a technology that supports threat detection, compliance, and security incident management through the collection and analysis of security events. It aggregates data from various sources, such as servers and applications, to identify malicious activity. This helps detect intrusions, monitor data loss, generate alerts, and validate compliance. SIEM provides threat intelligence and incident response capabilities to identify emerging threats and infrastructure vulnerabilities. It offers a comprehensive view of an organization's current security posture.
