@@ -6,7 +6,7 @@ Timestamps are displayed in epoch time
 
 Timestamps are displayed in Greenwich Mean Time
 
-The time zone defined in user settings
+The time zone defined in user settings ----------- ?????
 
 The time zone where the event originated
 
@@ -15,9 +15,9 @@ Question
 02/14
 What is the most efficient way to limit search results returned?
 
-index
+index ----------- ?????
 
-# time #
+time
 
 source
 
@@ -29,9 +29,9 @@ Question
 03/14
 By default, which of the following roles are required to share knowledge objects?
 
-Admin
+Admin ----------- ?????
 
-Power
+Power ----------- ?????
 
 Manager
 
@@ -126,7 +126,7 @@ Which of the following searches will return results containing the words fail, f
 
 *fail
 
-fail*
+fail*  - CORRECT ANSWER!
 
 fail+
 
@@ -146,7 +146,7 @@ Fast
 
 Variable
 
-Smart
+Smart - CORRECT ANSWER!
 
 
 
@@ -188,7 +188,7 @@ Chronological order
 
 Alphanumeric order
 
-Reverse alphanumeric order
+Reverse alphanumeric order  - CORRECT ANSWER!
 
 Reverse chronological order
 
