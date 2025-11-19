@@ -6,7 +6,7 @@ Timestamps are displayed in epoch time
 
 Timestamps are displayed in Greenwich Mean Time
 
-The time zone defined in user settings ----------- ?????
+The time zone defined in user settings ----------- Correct answer!
 
 The time zone where the event originated
 
@@ -17,7 +17,7 @@ What is the most efficient way to limit search results returned?
 
 index ----------- ?????
 
-time
+time ------- ?????
 
 source
 
@@ -29,9 +29,9 @@ Question
 03/14
 By default, which of the following roles are required to share knowledge objects?
 
-Admin ----------- ?????
+Admin ----------- Correct answer!
 
-Power ----------- ?????
+Power ----------- Correct answer!
 
 Manager
 
@@ -44,7 +44,7 @@ By default, who is able to view a saved report?
 
 The user who created it
 
-The user who created it or any user with an admin role
+The user who created it or any user with an admin role ------ Correct answer!
 
 Any user with a power or admin role
 
@@ -56,13 +56,13 @@ Question
 05/14
 What are the default roles in Splunk Enterprise?
 
-Admin
+Admin ------ Correct answer!
 
-Manager
+Manager 
 
-User
+User ------ Correct answer
 
-Power
+Power ------- Correct answer!
 
 
 
@@ -70,7 +70,7 @@ Question
 06/14
 Which Splunk infrastructure component stores ingested data?
 
-Index
+Index ------- Correct answer!
 
 Dashboards
 
@@ -86,7 +86,7 @@ By default, how long does a search job remain active?
 
 7 days
 
-10 minutes
+10 minutes ------ Correct answer!
 
 30 minutes
 
@@ -99,7 +99,7 @@ A backtick (`)
 
 A quotation mark (")
 
-A pipe (|)
+A pipe (|) -------- Correct answer!
 
 A tilde (~)
 
@@ -113,7 +113,7 @@ failed password OR "failed password"
 
 fail*
 
-failed OR password OR "failed password"
+failed OR password OR "failed password" ------- Correct answer!
 
 failed OR password
 
@@ -159,7 +159,7 @@ subsearch
 
 filter
 
-search
+search ------ Correct answer!
 
 subset
 
@@ -169,13 +169,13 @@ Question
 13/14
 Which of the following booleans can be used in a search?
 
-OR
+OR ------- Correct answer!
 
 ALSO
 
-AND
+AND ------- Correct answer!
 
-NOT
+NOT ------ Correct answer!
 
 
 
@@ -188,9 +188,9 @@ Chronological order
 
 Alphanumeric order
 
-Reverse alphanumeric order  - CORRECT ANSWER!
+Reverse alphanumeric order
 
-Reverse chronological order
+Reverse chronological order ------- Correct Answer!
 
 
 
