@@ -1,6 +1,6 @@
-__Question__
+__Question
 01/14
-What determines the timestamp shown on returned events in a search?
+What determines the timestamp shown on returned events in a search?__
 
 Timestamps are displayed in epoch time
 
