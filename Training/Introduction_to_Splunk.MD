@@ -17,7 +17,7 @@ What is the most efficient way to limit search results returned?
 
 index
 
-#time#
+# time #
 
 source
 
