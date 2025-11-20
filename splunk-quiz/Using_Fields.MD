@@ -1,6 +1,6 @@
-__ Question
+__Question
 01/08
-At search time, _______ extracts fields from raw event data. __
+At search time, _______ extracts fields from raw event data.__
 
 fields command 
 
