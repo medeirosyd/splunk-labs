@@ -34,7 +34,7 @@ FALSE
 
 __Question
 04/08
-In the Fields sidebar, Interesting Fields occur in at least ________of resulting events.__ 
+In the Fields sidebar, Interesting Fields occur in at least________of resulting events.__ 
 
 20%
 
@@ -48,7 +48,7 @@ In the Fields sidebar, Interesting Fields occur in at least ________of resulting
 
 __Question
 05/08
-At search time, if an event has an equal(=) sign, the data to the left is treated as a ______ and the data to the right is treated as a ______.__
+At search time, if an event has an equal(=) sign, the data to the left is treated as a______and the data to the right is treated as a______.__
 
 field name, sourcetype 
 
