@@ -34,7 +34,7 @@ FALSE
 
 __Question
 04/08
-In the Fields sidebar, Interesting Fields occur in at least ________ of resulting events.__ 
+In the Fields sidebar, Interesting Fields occur in at least ________of resulting events.__ 
 
 20%
 
