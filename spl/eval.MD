@@ -2,7 +2,7 @@
 
 The SPL2 eval command calculates an expression and puts the resulting value into a search results field.
 
-## Examples
+## Sample usage
 
 ... | eval velocity=distance/time
 
