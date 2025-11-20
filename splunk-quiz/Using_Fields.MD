@@ -4,22 +4,22 @@ At search time, _______ extracts fields from raw event data.__
 
 fields command 
 
-field discovery
+field discovery --------------????????
 
-field extractor 
+field extractor --------------??????????
 
 
 __Question
 02/08
 Which of the following fields are default selected fields?__ 
 
-source
+source ------------ Correct Answer!
 
-sourcetype
+sourcetype ------------ Correct Answer!
 
 index
 
-host
+host ------------ Correct Answer!
 
 
 __Question
@@ -28,7 +28,7 @@ True or False: Fields are knowledge objects.__
 
 TRUE
 
-FALSE
+FALSE ------------ Correct Answer!
 
 
 
@@ -36,7 +36,7 @@ __Question
 04/08
 In the Fields sidebar, Interesting Fields occur in at least________of resulting events.__ 
 
-20%
+20% ------------ Correct Answer!
 
 10%
 
@@ -56,7 +56,7 @@ lookup, value
 
 lookup, sourcetype
 
-field name, value
+field name, value ------------ Correct Answer!
 
 
 
@@ -66,7 +66,7 @@ True or False: Once you rename a field, the new field name must be used in the r
 
 FALSE
 
-TRUE
+TRUE ------------ Correct Answer!
 
 
 
@@ -74,7 +74,7 @@ __Question
 07/08
 To remove fields from a search, you would use the _________ command.__ 
 
-fields-
+fields-    ------------ Correct Answer!
 
 -fields
 
@@ -91,7 +91,7 @@ The fields command allows you to do which of the following? Select all that appl
 
 Include fields (fields +)
 
-Exclude fields (fields -)
+Exclude fields (fields -)   ------------ Correct Answer!
 
-Include fields (fields) 
+Include fields (fields) ------------ Correct Answer!
 
