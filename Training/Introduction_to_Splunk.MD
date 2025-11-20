@@ -15,9 +15,9 @@ __Question
 02/14
 What is the most efficient way to limit search results returned?__
 
-_index ----------- ?????
+_index ----------- ?????_
 
-time ------- ?????_
+_time ------- ?????_
 
 source
 
@@ -29,9 +29,9 @@ __Question
 03/14
 By default, which of the following roles are required to share knowledge objects?__
 
-_Admin ----------- Correct answer!
+_Admin ----------- Correct answer!_
 
-Power ----------- Correct answer!_
+_Power ----------- Correct answer!_
 
 Manager
 
