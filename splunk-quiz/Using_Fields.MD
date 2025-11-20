@@ -48,7 +48,7 @@ In the Fields sidebar, Interesting Fields occur in at least ________ of resultin
 
 __Question
 05/08
-At search time, if an event has an equal(=) sign, the data to the left is treated as a ______ and the data to the right is treated as a ______.__ 
+At search time, if an event has an equal(=) sign, the data to the left is treated as a ______ and the data to the right is treated as a ______.__
 
 field name, sourcetype 
 
