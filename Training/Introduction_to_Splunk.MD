@@ -11,13 +11,13 @@ _The time zone defined in user settings ----------- Correct answer!_
 The time zone where the event originated
 
 
-Question
+__Question
 02/14
-What is the most efficient way to limit search results returned?
+What is the most efficient way to limit search results returned?__
 
-index ----------- ?????
+_index ----------- ?????
 
-time ------- ?????
+time ------- ?????_
 
 source
 
@@ -25,26 +25,26 @@ host
 
 
 
-Question
+__Question
 03/14
-By default, which of the following roles are required to share knowledge objects?
+By default, which of the following roles are required to share knowledge objects?__
 
-Admin ----------- Correct answer!
+_Admin ----------- Correct answer!
 
-Power ----------- Correct answer!
+Power ----------- Correct answer!_
 
 Manager
 
 User
 
 
-Question
+__Question
 04/14
-By default, who is able to view a saved report?
+By default, who is able to view a saved report?__
 
 The user who created it
 
-The user who created it or any user with an admin role ------ Correct answer!
+_The user who created it or any user with an admin role ------ Correct answer!_
 
 Any user with a power or admin role
 
@@ -52,25 +52,25 @@ Any user with the viewreports capability
 
 
 
-Question
+__Question
 05/14
-What are the default roles in Splunk Enterprise?
+What are the default roles in Splunk Enterprise?__
 
-Admin ------ Correct answer!
+_Admin ------ Correct answer!_
 
 Manager 
 
-User ------ Correct answer
+_User ------ Correct answer!_
 
-Power ------- Correct answer!
+_Power ------- Correct answer!_
 
 
 
-Question
+__Question
 06/14
-Which Splunk infrastructure component stores ingested data?
+Which Splunk infrastructure component stores ingested data?__
 
-Index ------- Correct answer!
+_Index ------- Correct answer!_
 
 Dashboards
 
@@ -80,53 +80,53 @@ Data models
 
 
 
-Question
+__Question
 07/14
-By default, how long does a search job remain active?
+By default, how long does a search job remain active?__
 
 7 days
 
-10 minutes ------ Correct answer!
+_10 minutes ------ Correct answer!_
 
 30 minutes
 
 
-Question
+__Question
 08/14
-Which character is used in a search before a command?
+Which character is used in a search before a command?__
 
 A backtick (`)
 
 A quotation mark (")
 
-A pipe (|) -------- Correct answer!
+_A pipe (|) -------- Correct answer!_
 
 A tilde (~)
 
 
 
-Question
+__Question
 09/14
-Which of the following searches will return results containing the terms failed, password, or failed password?
+Which of the following searches will return results containing the terms failed, password, or failed password?__
 
 failed password OR "failed password"
 
 fail*
 
-failed OR password OR "failed password" ------- Correct answer!
+_failed OR password OR "failed password" ------- Correct answer!_
 
 failed OR password
 
 
 
 
-Question
+__Question
 10/14
-Which of the following searches will return results containing the words fail, failure, or failed?
+Which of the following searches will return results containing the words fail, failure, or failed?__
 
 *fail
 
-fail*  - CORRECT ANSWER!
+_fail*  - CORRECT ANSWER!_
 
 fail+
 
@@ -136,9 +136,9 @@ fail
 
 
 
-Question
+__Question
 11/14
-Which search mode behaves differently depending on the type of search being run?
+Which search mode behaves differently depending on the type of search being run?__
 
 Verbose
 
@@ -146,43 +146,43 @@ Fast
 
 Variable
 
-Smart - CORRECT ANSWER!
+_Smart - CORRECT ANSWER!_
 
 
 
 
-Question
+__Question
 12/14
-Which command can be used to further filter results in a search?
+Which command can be used to further filter results in a search?__
 
 subsearch
 
 filter
 
-search ------ Correct answer!
+_search ------ Correct answer!_
 
 subset
 
 
 
-Question
+__Question
 13/14
-Which of the following booleans can be used in a search?
+Which of the following booleans can be used in a search?__
 
-OR ------- Correct answer!
+_OR ------- Correct answer!_
 
 ALSO
 
-AND ------- Correct answer!
+_AND ------- Correct answer!_
 
-NOT ------ Correct answer!
-
-
+_NOT ------ Correct answer!_
 
 
-Question
+
+
+__Question
 14/14
-When a search is run, in what order are events returned?
+When a search is run, in what order are events returned?__
 
 Chronological order
 
@@ -190,7 +190,7 @@ Alphanumeric order
 
 Reverse alphanumeric order
 
-Reverse chronological order ------- Correct Answer!
+_Reverse chronological order ------- Correct Answer!_
 
 
 
