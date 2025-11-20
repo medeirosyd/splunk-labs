@@ -2,7 +2,7 @@
 
 Returns the number of events in specified indexes.
 
-## Examples:
+## Sample usage
 
 | eventcount summarize=false index=_audit index=main
 
