@@ -6,7 +6,7 @@ Timestamps are displayed in epoch time
 
 Timestamps are displayed in Greenwich Mean Time
 
-The time zone defined in user settings ----------- Correct answer!
+_The time zone defined in user settings ----------- Correct answer!_
 
 The time zone where the event originated
 
