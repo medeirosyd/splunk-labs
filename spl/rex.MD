@@ -4,7 +4,7 @@ Use the SPL2 rex command to either extract fields using regular expression named
 
 The rex command matches the value of the specified field against the unanchored regular expression and extracts the named groups into fields of the corresponding names.
 
-## Sample usage
+## Sample
 
 ...| rex "expression | with pipe"
 
