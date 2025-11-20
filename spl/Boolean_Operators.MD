@@ -2,7 +2,7 @@
 
 The Splunk search processing language (SPL) supports the following logical operators in Boolean expressions: AND, OR, NOT, and XOR.
 
-## Sample usage
+## Sample
 
 host="www1" AND status=200 OR action="addtocart"
 
