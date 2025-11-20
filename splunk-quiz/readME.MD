@@ -4,7 +4,7 @@ A curated collection of my Splunk learning journey — including quiz solutions,
 
 ## Content
 
-Quiz.
+Splunk Power User Quizes.
 
 ## Important Notice
 
