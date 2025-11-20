@@ -1,4 +1,4 @@
-__Question
+__ Question
 01/08
 At search time, _______ extracts fields from raw event data. __
 
