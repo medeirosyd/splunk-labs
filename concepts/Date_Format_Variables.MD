@@ -6,7 +6,7 @@
 
 %+	The date and time with time zone in the current locale's format as defined by the server's operating system. For example, Thu Jul 18 09:30:00 PDT 2019 for US English on Linux.
 
-__Time variables__
+## Time variables
 
 %Ez	Splunk-specific, timezone in minutes.
 
@@ -42,13 +42,13 @@ __Time variables__
 
 Note: To parse timestamps with GMT and an offset in data that you upload using Add Data, such as Fri Apr 29 2022 23:45:22 GMT-0700, you might need to use %:Z to capture both the timestamp and the offset.
 
-__Date variables__
+## Date variables
 
 %F	Equivalent to %Y-%m-%d (the ISO 8601 date format).
 
 %x	The date in the format of the current locale. For example, 7/13/2019 for US English.
 
-__Specifying days and weeks__
+## Specifying days and weeks
 
 %A	Full weekday name. (Sunday, ..., Saturday)
 
@@ -65,7 +65,7 @@ __Specifying days and weeks__
 %w	Weekday as a decimal number. (0 = Sunday, ..., 6 = Saturday)
 
 
-__Specifying months__
+## Specifying months
 
 %b	Abbreviated month name. (Jan, Feb, etc.)
 
@@ -74,7 +74,7 @@ __Specifying months__
 %m	Month as a decimal number. (01 to 12). Leading zeros are accepted but not required.
 
 
-__Specifying year__
+## Specifying year
 
 %C	The century as a 2-digit decimal number.
 
@@ -85,3 +85,24 @@ __Specifying year__
 %y	Year as a decimal number, without the century. (00 to 99). Leading zeros are accepted but not required.
 
 %Y	Year as a decimal number with the century. For example, 2025.
+
+## Samples
+
+... |  eval mytime=strptime("2022-12-15T09:45:22","%Y-%m-%dT%H:%M:%S")
+
+host="www1" | eval WeekNo = strftime(_time, "%V")
+
+... |  eval mytime=strftime(_time,"%Y-%m-%dT%H:%M:%S.%Q")
+
+... | eval start=strptime(Sent, "%H:%M:%S.%N"), end=strptime(Received, "%H:%M:%S.%N") | eval difference=end-start | table end, start, difference
+
+|gentimes start=12/27/2024 increment=1d
+|eval _time = starttime, time_ts = starttime
+``` This extracts Year-Week format using strftime```
+|eval year_week_Y_format= strftime( _time, "%Y")
+|eval final_week_YV_format = strftime( _time, "%Y-%V")
+``` This extracts Year-Week in ISO format using %G with strftime ```
+|eval year_week_G_format = strftime( _time, "%G")
+|eval final_week_G_format = strftime( _time, "%G-%V")
+|table _time year_week_Y_format final_week_YV_format year_week_G_format final_week_G_format time_ts
+|sort 0 -  _time
