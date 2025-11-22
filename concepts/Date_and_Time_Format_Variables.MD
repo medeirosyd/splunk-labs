@@ -1,6 +1,4 @@
-# Time Format Variables
-
-## Date and time variables
+## Date and time format variables
 
 %c	The date and time in the current locale's format as defined by the server's operating system. For example, Thu Jul 18 09:30:00 2019 for US English on Linux.
 
