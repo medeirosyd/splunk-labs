@@ -16,11 +16,7 @@
 
 %p	AM or PM. Use with %I to specify the 12-hour clock for AM or PM. Do not use with %H.
 
-%Q	The subsecond component of a UTC timestamp. The default is milliseconds, %3Q. Some valid values are:
-
-   %3Q = milliseconds, with values of 000-999
-   %6Q = microseconds, with values of 000000-999999
-   %9Q = nanoseconds, with values of 000000000-999999999
+%Q	The subsecond component of a UTC timestamp. The default is milliseconds, %3Q. Some valid values are:   %3Q = milliseconds, with values of 000-999    %6Q = microseconds, with values of 000000-999999   %9Q = nanoseconds, with values of 000000000-999999999
 
 %S	Second as a decimal number, for example 00 to 59.
 
