@@ -1,6 +1,6 @@
 # Time Format Variables
 
-Date and time variables
+__Date and time variables__
 
 %c	The date and time in the current locale's format as defined by the server's operating system. For example, Thu Jul 18 09:30:00 2019 for US English on Linux.
 
@@ -42,13 +42,13 @@ __Time variables__
 
 Note: To parse timestamps with GMT and an offset in data that you upload using Add Data, such as Fri Apr 29 2022 23:45:22 GMT-0700, you might need to use %:Z to capture both the timestamp and the offset.
 
-Date variables
+__Date variables__
 
 %F	Equivalent to %Y-%m-%d (the ISO 8601 date format).
 
 %x	The date in the format of the current locale. For example, 7/13/2019 for US English.
 
-Specifying days and weeks
+__Specifying days and weeks__
 
 %A	Full weekday name. (Sunday, ..., Saturday)
 
@@ -65,7 +65,7 @@ Specifying days and weeks
 %w	Weekday as a decimal number. (0 = Sunday, ..., 6 = Saturday)
 
 
-Specifying months
+__Specifying months__
 
 %b	Abbreviated month name. (Jan, Feb, etc.)
 
@@ -74,7 +74,7 @@ Specifying months
 %m	Month as a decimal number. (01 to 12). Leading zeros are accepted but not required.
 
 
-Specifying year
+__Specifying year__
 
 %C	The century as a 2-digit decimal number.
 
