@@ -94,13 +94,13 @@ host="www1" | eval WeekNo = strftime(_time, "%V")
 
 ... | eval start=strptime(Sent, "%H:%M:%S.%N"), end=strptime(Received, "%H:%M:%S.%N") | eval difference=end-start | table end, start, difference
 
-|gentimes start=12/27/2024 increment=1d
-|eval _time = starttime, time_ts = starttime
-``` This extracts Year-Week format using strftime```
-|eval year_week_Y_format= strftime( _time, "%Y")
-|eval final_week_YV_format = strftime( _time, "%Y-%V")
-``` This extracts Year-Week in ISO format using %G with strftime ```
-|eval year_week_G_format = strftime( _time, "%G")
-|eval final_week_G_format = strftime( _time, "%G-%V")
-|table _time year_week_Y_format final_week_YV_format year_week_G_format final_week_G_format time_ts
-|sort 0 -  _time
+|gentimes start=12/27/2024 increment=1d 
+|eval _time = starttime, time_ts = starttime 
+``` This extracts Year-Week format using strftime``` 
+|eval year_week_Y_format= strftime( _time, "%Y") 
+|eval final_week_YV_format = strftime( _time, "%Y-%V") 
+``` This extracts Year-Week in ISO format using %G with strftime ``` 
+|eval year_week_G_format = strftime( _time, "%G") 
+|eval final_week_G_format = strftime( _time, "%G-%V") 
+|table _time year_week_Y_format final_week_YV_format year_week_G_format final_week_G_format time_ts 
+|sort 0 -  _time 
