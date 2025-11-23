@@ -2,6 +2,14 @@
 
 Knowledge objects are user-defined entities that enrich existing data in Splunk Enterprise. They include reports, alerts, dashboards, datasets, field extractions, calculated fields, event types, lookups, tags, and aliases. Knowledge objects are managed through their listing pages in the Search and Reporting view or in the Settings menu under Knowledge.
 
+## knowledge object
+
+noun
+
+A user-defined entity that enriches the existing data in the Splunk platform. You can use knowledge objects to get specific information about your data. When you create a knowledge object, you can keep it private or you can share it with other users.
+
+Knowledge managers manage how their organizations use knowledge objects in their Splunk Enterprise deployments. Splunk Enterprise knowledge objects include saved searches, event types, tags, field extractions, lookups, reports, alerts, data models, workflow actions, and fields.
+
 Splunk software knowledge is grouped into five categories:
 
 __Data interpretation:__ Fields and field extractions - Fields and field extractions make up the first order of Splunk software knowledge. The fields that Splunk software automatically extracts from your IT data help bring meaning to your raw data, clarifying what can at first glance seem incomprehensible. The fields that you extract manually expand and improve upon this layer of meaning.
