@@ -1,0 +1,11 @@
+# search head
+
+noun
+
+In a distributed search environment, a Splunk Enterprise instance that handles search management functions, directing search requests to a set of search peers and then merging the results back to the user.
+
+A Splunk Enterprise instance can function as both a search head and a search peer. A search head that performs only searching, and not any indexing, is referred to as a dedicated search head.
+
+Search head clusters are groups of search heads that coordinate their activities.
+
+Search heads are also required components of indexer clusters.
