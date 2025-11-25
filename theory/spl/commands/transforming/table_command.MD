@@ -5,3 +5,13 @@ The table command is a transforming command in Splunk that returns a table forme
 You can specify a list of valid field names as arguments, separated by spaces or commas, to include in the table. Wildcards can be used to specify fields with similar names. For example, "value*" would include all fields starting with "value".
 
 The table command is a non-streaming command, and it's recommended to use it at the end of your searches to optimize performance. It doesn't allow field renaming, so if you need to rename a field, it should be done before piping the results to the table command.
+
+## Sample
+
+source=all_month.csv place=*California | table time, place, mag, depth
+
+source=all_month.csv place="Northern California" | rename latitude as lat longitude as lon locationSource as locSource | table time, place, lat, lon, locS*
+
+sourcetype=access_* | dedup clientip | eval network=if(cidrmatch("192.0.0.0/16", clientip), "local", "other") | table clientip, network
+
+sourcetype=access_* | table host action date_m*
