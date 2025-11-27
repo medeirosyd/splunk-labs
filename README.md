@@ -6,7 +6,9 @@ This repository contains files for learning and experimenting with Splunk.
 
 - `concepts/` — Splunk knowledge.
 - `dataset/` — Lookup files.
-- `SPL/` — SPL language.
+- `theory/` — SPL language.
+- `labs/` — Gold in form of data.
+
 
 ## Note
 
