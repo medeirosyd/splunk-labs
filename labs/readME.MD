@@ -9,7 +9,7 @@ each lab is step-by-step, with objectives, datasets, and evaluation criteria.
 
 ---
 
-## 🎯 What These Labs Cover
+## What These Labs Cover
 
 ### ✔ End-to-end data ingestion  
 - inputs  
