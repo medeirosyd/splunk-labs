@@ -32,7 +32,7 @@
 | delta | Computes the difference in field value between nearby results. | accum, autoregress, trendline, streamstats |  |  |  |  |
 | diff | Returns the difference between two search results. |  |  |  |  |  |
 | erex | Automatically extract fields based on example values. | extract, kvform, multikv, regex, rex, xmlkv |  |  |  |  |
-| eval | Calculates an expression and puts the value into a field. | where |  |  |  |  |
+| eval | Calculates an expression and puts the value into a field. | where | ... | eval full_name = first_name." ".last_name |  |  |  |
 | eventcount | Returns the number of events in an index. | dbinspect |  |  |  |  |
 | eventstats | Adds summary statistics to all search results. | stats |  |  |  |  |
 | extract (kv) | Extracts field-value pairs from search results. | kvform, multikv, xmlkv, rex |  |  |  |  |
