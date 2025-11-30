@@ -1,4 +1,3 @@
-<details>
 <summary><strong>Splunk Commands Table</strong></summary>
 
 | Command | Description | Related commands | Example 1 | Example 2 | Example 3 | Example 4 |
@@ -149,5 +148,3 @@
 | xmlunescape | Unescape XML. |  |  |  |  |  |
 | xpath | Extract XML fields. |  |  |  |  |  |
 | xyseries | Make graphable dataset. |  |  |  |  |  |
-
-</details>
