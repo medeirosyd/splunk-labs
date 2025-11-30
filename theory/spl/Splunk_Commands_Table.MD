@@ -1,6 +1,4 @@
-<summary><strong>Splunk Commands Table</strong></summary>
-
-| Command | Description | Related commands | Example 1 | Example 2 | Example 3 | Example 4 |
+| Command | Description | Related commands | Sample 1 | Sample 2 | Sample 3 | Sample 4 |
 |--------|-------------|------------------|-----------|-----------|-----------|-----------|
 | abstract | Produces a summary of each search result. | highlight |  |  |  |  |
 | accum | Keeps a running total of the specified numeric field. | autoregress, delta, trendline, streamstats |  |  |  |  |
