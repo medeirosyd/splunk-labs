@@ -1,6 +1,6 @@
 | Command | Description | Related commands | Sample 1 | Sample 2 | Sample 3 | Sample 4 |
 |--------|-------------|------------------|-----------|-----------|-----------|-----------|
-| abstract | Produces a summary of each search result. | highlight |  |  |  |  |
+| abstract | Produces a summary of each search result. | highlight | index=_internal | abstract | index=main | abstract keepempty=true | index=web | abstract maxlen=120 | index=main | abstract sourcefield=_raw |
 | accum | Keeps a running total of the specified numeric field. | autoregress, delta, trendline, streamstats |  |  |  |  |
 | addcoltotals | Computes an event that contains sum of all numeric fields for previous events. | addtotals, stats |  |  |  |  |
 | addinfo | Add fields that contain common information about the current search. | search |  |  |  |  |
